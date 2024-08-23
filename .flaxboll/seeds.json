@@ -96,7 +96,7 @@
     }
   },
 
-  "sss_project": {
+  "ccc_project": {
     "capsCodeInfo": {
       "1": {
         "capsCodeVersionID": "1",
@@ -104,16 +104,19 @@
           "seconds": 1669821908,
           "nanoseconds": 764000000
         },
-        "capsLabel": { "pt-br": "Projeto", "en": "Project" },
+        "capsLabel": {
+          "pt-br": "Projeto",
+          "en": "Project"
+        },
         "capsDescription": {
           "pt-br": "Cápsula contendo o código para iniciar um projeto.",
           "en": "Capsule containing the code to start a project."
         },
         "capsCodeTypes": ["project"],
-        "capsCodeText": "\n // ---------- import React Packs\n import React from 'react';\n import * as RN from 'react-native';\n \n // ---------- import Variables Pack\n import { create } from 'zustand';\n \n // ---------- import Local Tools\n // import {mapElements} from './tools/base/project/mapElements';\n import { Project, Screen } from './tools/base/project';\n // import * as functions from './tools/base/functions';\n import * as Elements from './tools/base/Elements';\n // import * as jsvals from './tools/base/jsvals';\n // import { props } from './tools/base/props';\n // import * as customs from './tools/customs';\n // import * as stls from './tools/base/stls';\n // import { tools } from \"./tools\";\n \n // ---------- set Caps Inputs\n const currRoute = '!#!initial screen!#!'\n \n let args:any = []\n \n const screens = [\n !#!Lista de Telas!#!\n ]\n \n const initCt = () => ({\n !#!Lista de Variáveis!#!\n });\n const initObj = initCt();\n \n const arrInitFuncs = [\n !#!Start Functions!#!\n ];\n \n export const useRoutes = create(() => ({ currRoute }));\n export const useData = create(() => initObj);\n \n // ---------- set Main Component\n export const Router = () => {\n return (\n <Project\n configData={{\n screens,\n initCt,\n arrInitFuncs,\n }}\n />\n );\n };",
+        "capsCodeText": "\n          // ---------- import React Packs\n          import React from 'react';\n          import * as RN from 'react-native';\n\n          // ---------- import Variables Pack\n          import { create } from 'zustand';\n\n          // ---------- import Local Tools\n          import { mapElements } from './tools/base/project/mapElements';\n          import * as functions from './tools/base/functions';\n          import * as Elements from './tools/base/Elements';\n          import { Project } from './tools/base/project';\n          import * as jsvals from './tools/base/jsvals';\n          import { props } from './tools/base/props';\n          import * as customs from './tools/customs';\n          import * as stls from './tools/base/stls';\n          import { tools } from './tools';\n\n          // ---------- set Caps Inputs\n          const currRoute = '!#!initial screen!#!';\n\n          let args: any = [];\n\n          const screens = [\n            // !#!Lista de Telas!#!\n          ];\n\n          const initCt = () => ({\n            // !#!Lista de Variáveis!#!\n          });\n          const initObj = initCt();\n          // console.log(initObj);\n\n          const arrInitFuncs = [\n            // !#!Start Functions!#!\n          ];\n\n          export const useRoutes = create(() => ({ currRoute }));\n          export const useData = create(() => initObj);\n\n          // ---------- set Main Component\n          export const Router = () => {\n            return (\n              <Project\n                configData={{\n                  screens,\n                  initCt,\n                  arrInitFuncs,\n                }}\n              />\n            );\n          };\n        ",
         "capsCodeInputs": {
-          "sss_project-0": {
-            "capsIptCodeID": "sss_project-0",
+          "ccc_project-0": {
+            "capsIptCodeID": "ccc_project-0",
             "capsIptPosition": "0",
             "capsIptRemoved": false,
             "capsIptType": "text",
@@ -129,8 +132,8 @@
               }
             }
           },
-          "sss_project-1": {
-            "capsIptCodeID": "sss_project-1",
+          "ccc_project-1": {
+            "capsIptCodeID": "ccc_project-1",
             "capsIptPosition": "3",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
@@ -143,12 +146,12 @@
                 "pt-br": "Adicione Telas para o projeto.",
                 "en": "Add Screens to the project."
               },
-              "capsIptCapsDfCode": "(...args: any) => <RN.View style={{width: '100%',height: '100%',justifyContent: 'center', alignItems: 'center',backgroundColor: '#202'}}><RN.Text style={{color: 'white'}}>Add a Screen to Start</RN.Text></RN.View>",
+              "capsIptCapsDfCode": "[]",
               "capsIptCapsTypesToAdd": ["Tela"]
             }
           },
-          "sss_project-2": {
-            "capsIptCodeID": "sss_project-2",
+          "ccc_project-2": {
+            "capsIptCodeID": "ccc_project-2",
             "capsIptPosition": "2",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
@@ -165,8 +168,8 @@
               "capsIptCapsTypesToAdd": ["propValue"]
             }
           },
-          "sss_project-3": {
-            "capsIptCodeID": "sss_project-3",
+          "ccc_project-3": {
+            "capsIptCodeID": "ccc_project-3",
             "capsIptPosition": "1",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
@@ -175,7 +178,10 @@
                 "pt-br": "Função de Início",
                 "en": "Start Function"
               },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
               "capsIptCapsDfCode": "()=>{}",
               "capsIptCapsTypesToAdd": ["function"]
             }
@@ -186,27 +192,36 @@
     "capsType": "code",
     "capsDB": {
       "capsPrjID": "yyy1",
-      "capsCreatedAt": { "seconds": 1669821908, "nanoseconds": 764000000 },
-      "capsID": "sss_project",
+      "capsCreatedAt": {
+        "seconds": 1669821908,
+        "nanoseconds": 764000000
+      },
+      "capsID": "ccc_project",
       "capsUserID": "xxx1"
     }
   },
 
-  "sss_screen": {
+  "ccc_screen": {
     "capsCodeInfo": {
       "1": {
-        "capsVersionCreatedAt": { "seconds": 1, "nanoseconds": 7 },
+        "capsVersionCreatedAt": {
+          "seconds": 1669821908,
+          "nanoseconds": 760000000
+        },
         "capsCodeVersionID": "1",
-        "capsLabel": { "pt-br": "tela", "en": "screen" },
+        "capsLabel": {
+          "pt-br": "tela",
+          "en": "screen"
+        },
         "capsDescription": {
           "pt-br": "Cria uma nova Tela",
           "en": "Creates a new Screen"
         },
         "capsCodeTypes": ["Tela"],
-        "capsCodeText": "\n (...args: any) => <Screen pass={{\n pathScreen:\"!#!0!#!\",\n \n styles:[!#!1!#!],\n \n screenElements:[!#!2!#!],\n \n startFunctions:[!#!3!#!],\n \n args,\n }}/>",
+        "capsCodeText": "\n\n        (...args: any) => <Elements.Screen3 pass={{\n          pathScreen:\"!#!0!#!\",\n\n          styles:[!#!1!#!],\n\n          screenElements:[!#!2!#!],\n\n          startFunctions:[!#!3!#!],\n\n          args,\n        }}/>",
         "capsCodeInputs": {
-          "sss_screen-0": {
-            "capsIptCodeID": "sss_screen-0",
+          "ccc_screen-0": {
+            "capsIptCodeID": "ccc_screen-0",
             "capsIptPosition": "0",
             "capsIptRemoved": false,
             "capsIptType": "text",
@@ -222,23 +237,26 @@
               }
             }
           },
-          "sss_screen-1": {
-            "capsIptCodeID": "sss_screen-1",
+          "ccc_screen-1": {
+            "capsIptCodeID": "ccc_screen-1",
             "capsIptPosition": "2",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsTypesToAdd": ["Estilo Caixa", "Estilo Layout"],
-              "capsIptCapsLabel": { "pt-br": "Estilos", "en": "Styles" },
+              "capsIptCapsLabel": {
+                "pt-br": "Estilos",
+                "en": "Styles"
+              },
               "capsIptCapsDescription": {
                 "pt-br": "Adicione os itens que desejar para modificar o estilo dessa Tela.",
                 "en": "Add items to change screen style."
               },
-              "capsIptCapsDfCode": "\n {\n backgroundColor: '#101',\n justifyContent: 'center',\n alignItems: 'center',\n height: '100%',\n width: '100%',\n }\n "
+              "capsIptCapsDfCode": "\n              {\n                backgroundColor: '#101',\n                justifyContent: 'center',\n                alignItems: 'center',\n                height: '100%',\n                width: '100%',\n              }\n              "
             }
           },
-          "sss_screen-2": {
-            "capsIptCodeID": "sss_screen-2",
+          "ccc_screen-2": {
+            "capsIptCodeID": "ccc_screen-2",
             "capsIptPosition": "3",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
@@ -251,12 +269,12 @@
                 "pt-br": "Permite a inserção de elementos filhos",
                 "en": "Add children items"
               },
-              "capsIptCapsDfCode": "() => {\n const textStyle = {\n fontSize: 20,\n color: '#fff2',\n textAlign:'center',\n maxWidth: 200,\n // maxWidth: '200px'<= #ATTENTION: Native ERROR! No string!\n };\n \n return (\n <RN.Text style={textStyle}>\n {'Adicione Elementos nessa tela!'}\n </RN.Text>);\n }",
+              "capsIptCapsDfCode": "() => {\n                  const textStyle = {\n                    fontSize: 20,\n                    color: '#fff2',\n                    textAlign:'center',\n                    maxWidth: 200,\n                    // maxWidth: '200px'<= #ATTENTION: Native ERROR! No string!\n                  };\n\n                  return (\n                    <RN.Text style={textStyle}>\n                      {'Adicione Elementos nessa tela!'}\n                    </RN.Text>);\n                }",
               "capsIptCapsTypesToAdd": ["Elemento de Tela"]
             }
           },
-          "sss_screen-3": {
-            "capsIptCodeID": "sss_screen-3",
+          "ccc_screen-3": {
+            "capsIptCodeID": "ccc_screen-3",
             "capsIptPosition": "1",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
@@ -265,7 +283,10 @@
                 "pt-br": "Funções de Início",
                 "en": "Start Functions"
               },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
               "capsIptCapsDfCode": "()=>{}",
               "capsIptCapsTypesToAdd": ["function"]
             }
@@ -275,124 +296,141 @@
     },
     "capsType": "code",
     "capsDB": {
-      "capsCreatedAt": { "seconds": 1, "nanoseconds": 7 },
+      "capsCreatedAt": {
+        "seconds": 1669821908,
+        "nanoseconds": 760000000
+      },
       "capsUserID": "usrn5e3jr2CvvnDpHigA",
       "capsPrjID": "ZOqi3kZm6c7XjObC79xk",
-      "capsID": "sss_screen"
+      "capsID": "ccc_screen"
     }
   },
 
-  "sss_text": {
+  "ccc_dynView": {
     "capsCodeInfo": {
       "1": {
-        "capsLabel": { "pt-br": "Texto", "en": "Text" },
-        "capsDescription": {
-          "pt-br": "Um componente React para exibir texto.",
-          "en": "A React component for displaying text."
+        "capsLabel": {
+          "pt-br": "DynView",
+          "en": "DynView"
         },
-        "capsCodeTypes": ["Elemento de Tela", "Text Component"],
-        "capsCodeText": "(...args:any) => <Elements.Text pass={{\n arrProps: [\n !#!Elements Properties!#!\n ],\n \n arrStyles: [\n !#!Styles!#!\n ],\n \n children: [\n !#!Text Value!#!\n ],\n \n args,\n \n }}/>",
+        "capsDescription": {
+          "pt-br": "Renderiza uma caixa ou container na tela",
+          "en": "Makes a view in the screen"
+        },
+        "capsCodeTypes": ["Elemento de Tela", "DynView"],
+        "capsCodeText": "\n\n          (...args:any) => <Elements.DynView pass={{\n            elementsProperties:[!#!1!#!],\n\n            styles:[!#!2!#!],\n\n            variablePath:[!#!3!#!],\n\n            expectedVal:[!#!4!#!],\n\n            childrenItems:[!#!5!#!],\n\n            args,\n          }}/>\n        ",
         "capsCodeInputs": {
-          "sss_text-0": {
-            "capsIptCodeID": "sss_text-0",
+          "ccc_dynView-0": {
+            "capsIptCodeID": "ccc_dynView-0",
             "capsIptPosition": "0",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Propriedades de Elementos",
+                "pt-br": "Propredades de Elementos",
                 "en": "Elements Properties"
               },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
               "capsIptCapsDfCode": "{}",
-              "capsIptCapsTypesToAdd": ["Propriedade Texto"]
+              "capsIptCapsTypesToAdd": ["Propriedade Caixa"]
             }
           },
-          "sss_text-1": {
-            "capsIptCodeID": "sss_text-1",
+          "ccc_dynView-1": {
+            "capsIptCodeID": "ccc_dynView-1",
             "capsIptPosition": "1",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
-              "capsIptCapsLabel": { "pt-br": "Estilos", "en": "Styles" },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
-              "capsIptCapsDfCode": "{ color: 'white', fontSize: 14, }",
-              "capsIptCapsTypesToAdd": ["Estilo Texto"]
+              "capsIptCapsLabel": {
+                "pt-br": "Estilos",
+                "en": "Styles"
+              },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
+              "capsIptCapsDfCode": "\n              {\n                backgroundColor: 'white',\n                justifyContent: 'center',\n                minHeight: 22,\n                width: \"100%\",\n              }\n              ",
+              "capsIptCapsTypesToAdd": [
+                "Estilo Layout",
+                "Estilo Caixa",
+                "Grupo de Estilos"
+              ]
             }
           },
-          "sss_text-2": {
-            "capsIptCodeID": "sss_text-2",
+          "ccc_dynView-2": {
             "capsIptPosition": "2",
+            "capsIptCodeID": "ccc_dynView-2",
             "capsIptRemoved": false,
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Valor de Texto",
-                "en": "Text Value"
+                "pt-br": "Caminho da Variável",
+                "en": "variable path"
               },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
-              "capsIptCapsDfCode": "\"Escreva...\"",
-              "capsIptCapsTypesToAdd": ["string process", "string values"]
-            }
-          }
-        },
-        "capsCodeVersionID": "1",
-        "capsVersionCreatedAt": { "seconds": 1, "nanoseconds": 7 }
-      }
-    },
-    "capsType": "code",
-    "capsDB": {
-      "capsID": "sss_text",
-      "capsPrjID": "yyy1",
-      "capsCreatedAt": { "seconds": 1, "nanoseconds": 7 },
-      "capsUserID": "xxx1"
-    }
-  },
-
-  "sss_stringValue": {
-    "capsDB": {
-      "capsUserID": "usrn5e3jr2CvvnDpHigA",
-      "capsID": "sss_stringValue",
-      "capsCreatedAt": { "seconds": 1, "nanoseconds": 7 },
-      "capsPrjID": "ZOqi3kZm6c7XjObC79xk"
-    },
-    "capsType": "code",
-    "capsCodeInfo": {
-      "1": {
-        "capsLabel": {
-          "pt-br": "valor string",
-          "en": "string value"
-        },
-        "capsDescription": {
-          "pt-br": "",
-          "en": ""
-        },
-        "capsCodeTypes": ["string value", "jsValue", "string process"],
-        "capsCodeText": "\"!#!string value!#!\"",
-
-        "capsCodeVersionID": "1",
-        "capsCodeInputs": {
-          "sss_stringValue-0": {
-            "capsIptType": "text",
-            "capsIptRemoved": false,
-            "capsIptCodeID": "sss_stringValue-0",
-            "capsIptPosition": "0",
-            "capsIptTxtInfo": {
-              "capsIptTxtLabel": {
-                "pt-br": "valor string",
-                "en": "string value"
-              },
-
-              "capsIptTxtDescription": {
+              "capsIptCapsDescription": {
                 "pt-br": "",
                 "en": ""
               },
-              "capsIptTxtDfValue": ""
+              "capsIptCapsTypesToAdd": ["string process"],
+              "capsIptCapsDfCode": " "
             }
+          },
+          "ccc_dynView-3": {
+            "capsIptPosition": "3",
+            "capsIptCodeID": "ccc_dynView-3",
+            "capsIptRemoved": false,
+            "capsIptType": "capsules",
+            "capsIptCapsInfo": {
+              "capsIptCapsLabel": {
+                "pt-br": "Valor Esperado",
+                "en": "Expected Value"
+              },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
+              "capsIptCapsDfCode": " ",
+              "capsIptCapsTypesToAdd": ["string process"]
+            }
+          },
+          "ccc_dynView-4": {
+            "capsIptPosition": "4",
+            "capsIptCodeID": "ccc_dynView-4",
+            "capsIptCapsInfo": {
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
+              "capsIptCapsLabel": {
+                "pt-br": "Itens Filhos",
+                "en": "Children Items"
+              },
+              "capsIptCapsTypesToAdd": ["Elemento de Tela"],
+              "capsIptCapsDfCode": "() =><></>"
+            },
+            "capsIptType": "capsules",
+            "capsIptRemoved": false
           }
         },
-        "capsVersionCreatedAt": { "seconds": 1, "nanoseconds": 7 }
+        "capsCodeVersionID": "1",
+        "capsVersionCreatedAt": {
+          "seconds": 1669821908,
+          "nanoseconds": 764000000
+        }
       }
+    },
+    "capsType": "code",
+    "capsDB": {
+      "capsID": "ccc_dynView",
+      "capsPrjID": "yyy1",
+      "capsCreatedAt": {
+        "seconds": 1669821908,
+        "nanoseconds": 764000000
+      },
+      "capsUserID": "xxx1"
     }
   },
 
