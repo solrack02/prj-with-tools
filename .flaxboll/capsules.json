@@ -19881,33 +19881,5 @@
       "capsUseConections": "1",
       "capsUseFSPath": "src/index.tsx"
     }
-  },
-  "874513a2-66fe-44bb-a8b8-cc7cbb7f0dd7": {
-    "capsType": "useCode",
-    "capsDB": {
-      "capsID": "874513a2-66fe-44bb-a8b8-cc7cbb7f0dd7",
-      "capsPrjID": "ppp_01",
-      "capsUserID": "uuu_01",
-      "capsCreatedAt": 1709928259705
-    },
-    "capsUseCodeInfo": {
-      "capsUseFSPath": "src/index.tsx",
-      "capsCodeID": "mj6Uzwsqy5wIwbdoZXRT",
-      "capsCodeVersionID": "1",
-      "capsUpdatedAt": [1709928259705],
-      "capsUseLabel": {
-        "pt-br": "borderWidth"
-      },
-      "capsUseDescription": {
-        "pt-br": "1px"
-      },
-      "capsUseInputs": {
-        "mj6Uzwsqy5wIwbdoZXRT-0": {
-          "capsIptCodeID": "mj6Uzwsqy5wIwbdoZXRT-0",
-          "capsIptCapsValue": ["63dfd23f-c259-42bf-bf3d-d8b011d3e47c"]
-        }
-      },
-      "capsUseConections": "51"
-    }
   }
 }
