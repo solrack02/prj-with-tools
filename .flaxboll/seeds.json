@@ -2906,7 +2906,8 @@
     "capsCodeInfo": {
       "1": {
         "capsLabel": {
-          "pt-br": "func Group"
+          "pt-br": "func Group",
+          "en": "func Group"
         },
         "capsVersionCreatedAt": {
           "seconds": 1669821908,
@@ -4589,7 +4590,8 @@
     "capsCodeInfo": {
       "1": {
         "capsLabel": {
-          "pt-br": "stlGroup"
+          "pt-br": "stlGroup",
+          "en": "stlGroup"
         },
         "capsVersionCreatedAt": {
           "seconds": 1669821908,
