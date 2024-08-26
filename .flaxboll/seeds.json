@@ -505,8 +505,7 @@
       }
     }
   },
-
-   "ccc_dirSeed": {
+  "ccc_dirSeed": {
     "capsCodeInfo": {
       "1": {
         "capsLabel": {
@@ -20221,6 +20220,4 @@
     },
     "capsType": "code"
   }
-
-  
 }
