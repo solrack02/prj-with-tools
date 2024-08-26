@@ -4617,10 +4617,10 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Add Styles"
+                "pt-br": "Add Styles", "en": "Add Styles"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "", "en": ""
               },
               "capsIptCapsDfCode": "[]",
               "capsIptCapsTypesToAdd": [
