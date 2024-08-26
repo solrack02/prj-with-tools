@@ -46,8 +46,14 @@
           (...args:any) => <Elements.DynView pass={{
             elementsProperties:[{}],
 
-            styles:[stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
+            styles:[
+        stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
           propertieValues: "red"
+        }})] }}), 
+        stls.width({ pass: { arrayValue: [jsvals.j8({pass: {
+          propertieValues: "25px"
+        }})] }}), stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
+          propertieValues: "25px"
         }})] }})],
 
             variablePath:[ ],
