@@ -497,7 +497,7 @@
             "capsIptTxtInfo": {
               "capsIptTxtLabel": { "pt-br": "valor livre", "en": "free value" },
               "capsIptTxtDescription": { "pt-br": "", "en": "" },
-              "capsIptTxtDfValue": "   "
+              "capsIptTxtDfValue": "undefined"
             }
           }
         },
