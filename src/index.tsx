@@ -42,43 +42,18 @@
               ],
 
           screenElements:[
-        
 
           (...args:any) => <Elements.DynView pass={{
             elementsProperties:[{}],
 
             styles:[
-        stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "red"
-        }})] }}), 
-        stls.width({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "25px"
-        }})] }}), stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "25px"
-        }})] }})],
-
-            variablePath:[ ],
-
-            expectedVal:[ ],
-
-            childrenItems:[() =><></>],
-
-            args,
-          }}/>
-        , 
-
-          (...args:any) => <Elements.DynView pass={{
-            elementsProperties:[{}],
-
-            styles:[
-stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "green"
-        }})] }}), 
-stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "25px"
-        }})] }}), stls.width({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "25px"
-        }})] }})],
+              {
+                backgroundColor: 'white',
+                justifyContent: 'center',
+                minHeight: 22,
+                width: "100%",
+              }
+              ],
 
             variablePath:[ ],
 
