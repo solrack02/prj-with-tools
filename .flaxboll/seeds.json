@@ -28,7 +28,10 @@
                 "pt-br": "Diretórios e Arquivos",
                 "en": "Directories and Files"
               },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
               "capsIptCapsDfCode": "",
               "capsIptCapsTypesToAdd": ["flaxSystem"]
             }
@@ -76,7 +79,10 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": { "pt-br": "code text", "en": "code text" },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
               "capsIptCapsSeparator": "\n",
               "capsIptCapsDfCode": "// no code to inject",
               "capsIptCapsTypesToAdd": ["free value", "project"]
@@ -459,7 +465,10 @@
             "capsIptPosition": "0",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": { "pt-br": "code text", "en": "code text" },
-              "capsIptCapsDescription": { "pt-br": "", "en": "" },
+              "capsIptCapsDescription": {
+                "pt-br": "",
+                "en": ""
+              },
 
               "capsIptCapsSeparator": "\n",
 
@@ -747,10 +756,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Caminho da Lista"
+                "pt-br": "Caminho da Lista",
+                "en": "Caminho da Lista"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "\"\"",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -3913,10 +3924,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Functions"
+                "pt-br": "Functions",
+                "en": "Functions"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "()=>{}",
               "capsIptCapsTypesToAdd": ["function"]
@@ -5880,10 +5893,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Add Styles"
+                "pt-br": "Add Styles",
+                "en": "Add Styles"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "[]",
               "capsIptCapsTypesToAdd": [
@@ -12545,10 +12560,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Linhas Múltiplas"
+                "pt-br": "Linhas Múltiplas",
+                "en": "Linhas Múltiplas"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'true'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -16360,7 +16377,8 @@
                 "en": "numberOfLines"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'4'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -16410,7 +16428,8 @@
                 "en": "ellipsizeMode"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'tail'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19500,10 +19519,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "firestore init path"
+                "pt-br": "firestore init path",
+                "en": "firestore init path"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "''",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19516,10 +19537,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "array firestore reference"
+                "pt-br": "array firestore reference",
+                "en": "array firestore reference"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "''",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19532,10 +19555,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "functions return"
+                "pt-br": "functions return",
+                "en": "functions return"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "() => {}",
               "capsIptCapsTypesToAdd": [
@@ -19598,10 +19623,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "firestore init path"
+                "pt-br": "firestore init path",
+                "en": "firestore init path"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19614,10 +19641,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "array firestore reference"
+                "pt-br": "array firestore reference",
+                "en": "array firestore reference"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19630,10 +19659,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "path data to update"
+                "pt-br": "path data to update",
+                "en": "path data to update"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19646,10 +19677,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "functions return"
+                "pt-br": "functions return",
+                "en": "functions return"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "() => {}",
               "capsIptCapsTypesToAdd": [
@@ -19698,10 +19731,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "firestore init path"
+                "pt-br": "firestore init path",
+                "en": "firestore init path"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19714,10 +19749,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "array firestore reference"
+                "pt-br": "array firestore reference",
+                "en": "array firestore reference"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19730,10 +19767,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "functions return"
+                "pt-br": "functions return",
+                "en": "functions return"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "()=>{}",
               "capsIptCapsTypesToAdd": [
@@ -19783,10 +19822,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "firestore init path"
+                "pt-br": "firestore init path",
+                "en": "firestore init path"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19799,10 +19840,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "array firestore reference"
+                "pt-br": "array firestore reference",
+                "en": "array firestore reference"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19815,10 +19858,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "functions return"
+                "pt-br": "functions return",
+                "en": "functions return"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "()=>{}",
               "capsIptCapsTypesToAdd": [
@@ -19867,10 +19912,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "firestore init path"
+                "pt-br": "firestore init path",
+                "en": "firestore init path"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19883,10 +19930,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "array firestore reference"
+                "pt-br": "array firestore reference",
+                "en": "array firestore reference"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19899,10 +19948,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "data to set"
+                "pt-br": "data to set",
+                "en": "data to set"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19915,10 +19966,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "functions return"
+                "pt-br": "functions return",
+                "en": "functions return"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "()=>{}",
               "capsIptCapsTypesToAdd": ["setVar", "console log", "func Group"]
@@ -19948,10 +20001,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "firestore init"
+                "pt-br": "firestore init",
+                "en": "firestore init"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "''",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19964,10 +20019,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "array de arquivos"
+                "pt-br": "array de arquivos",
+                "en": "array de arquivos"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "''",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -19980,10 +20037,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "functions return"
+                "pt-br": "functions return",
+                "en": "functions return"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "() => {}",
               "capsIptCapsTypesToAdd": ["function", "customs"]
@@ -20027,10 +20086,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "where condition"
+                "pt-br": "where condition",
+                "en": "where condition"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": " ",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -20074,10 +20135,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "firestore init path"
+                "pt-br": "firestore init path",
+                "en": "firestore init path"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "''",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -20090,10 +20153,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "array firestore references"
+                "pt-br": "array firestore references",
+                "en": "array firestore references"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "''",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -20106,10 +20171,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "where params"
+                "pt-br": "where params",
+                "en": "where params"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "[() => ({ field: 'xx', operator: '==', value: 'xx' })]",
               "capsIptCapsTypesToAdd": ["where conditions"]
@@ -20122,10 +20189,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "functions return"
+                "pt-br": "functions return",
+                "en": "functions return"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "() => {}",
               "capsIptCapsTypesToAdd": [
@@ -20190,10 +20259,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "FB Variable Path"
+                "pt-br": "FB Variable Path",
+                "en": "FB Variable Path"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "'noPath'",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -20206,10 +20277,12 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "Variable Path To Save"
+                "pt-br": "Variable Path To Save",
+                "en": "Variable Path To Save"
               },
               "capsIptCapsDescription": {
-                "pt-br": ""
+                "pt-br": "",
+                "en": ""
               },
               "capsIptCapsDfCode": "()=>{}",
               "capsIptCapsTypesToAdd": ["setVar"]
