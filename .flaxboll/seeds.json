@@ -1448,7 +1448,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
                 "pt-br": "Utils",
-                "en": ""
+                "en": "Utils"
               },
               "capsIptCapsTypesToAdd": ["Função", "function"],
               "capsIptCapsDescription": {
@@ -2885,7 +2885,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
                 "pt-br": "Número Limite de Caracteres",
-                "en": ""
+                "en": "Número Limite de Caracteres"
               },
               "capsIptCapsDescription": {
                 "pt-br": "",
@@ -8711,7 +8711,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
                 "pt-br": "cor da sombra",
-                "en": ""
+                "en": "cor da sombra"
               },
               "capsIptCapsDescription": {
                 "pt-br": "",
@@ -8729,7 +8729,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
                 "pt-br": "direção da sombra",
-                "en": ""
+                "en": "direção da sombra"
               },
               "capsIptCapsDescription": {
                 "pt-br": "",
@@ -8747,7 +8747,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
                 "pt-br": "transparência da sombra",
-                "en": ""
+                "en": "transparência da sombra"
               },
               "capsIptCapsDescription": {
                 "pt-br": "",
@@ -8765,7 +8765,7 @@
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
                 "pt-br": "desfoque da sombra",
-                "en": ""
+                "en": "desfoque da sombra"
               },
               "capsIptCapsDescription": {
                 "pt-br": "",
@@ -9139,8 +9139,8 @@
             "capsIptType": "capsules",
             "capsIptCapsInfo": {
               "capsIptCapsLabel": {
-                "pt-br": "",
-                "en": ""
+                "pt-br": "empty",
+                "en": "empty"
               },
               "capsIptCapsDescription": {
                 "pt-br": "shadowOffset",
