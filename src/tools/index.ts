@@ -1,10 +1,1 @@
-
-// ---------- import Local Tools
-// import { customs } from './customs';
-import { base } from './base';
-
-export const tools = {
-  // customs,
-  ...base,
-};
-
+%0A%2F%2F%20----------%20import%20Local%20Tools%0A%2F%2F%20import%20%7B%20customs%20%7D%20from%20'.%2Fcustoms'%3B%0Aimport%20%7B%20base%20%7D%20from%20'.%2Fbase'%3B%0A%0Aexport%20const%20tools%20%3D%20%7B%0A%20%20%2F%2F%20customs%2C%0A%20%20...base%2C%0A%7D%3B%0A%0A

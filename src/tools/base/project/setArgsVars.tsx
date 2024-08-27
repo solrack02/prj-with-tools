@@ -1,16 +1,1 @@
-
-// ---------- import Local Tools
-import { argSel } from './argSel';
-import { getVarValue } from './getVarValue';
-
-export const setArgsVars = (value: string, args: any) => {
-  const checkArgs = value.startsWith('#');
-  if (checkArgs) return argSel(args, value);
-
-  // ---------- set Vars (If Exists)
-  const [condVar, varValue] = getVarValue(value, 'noComponent');
-  if (condVar) return varValue;
-
-  return value;
-};
-
+%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20argSel%20%7D%20from%20'.%2FargSel'%3B%0Aimport%20%7B%20getVarValue%20%7D%20from%20'.%2FgetVarValue'%3B%0A%0Aexport%20const%20setArgsVars%20%3D%20(value%3A%20string%2C%20args%3A%20any)%20%3D%3E%20%7B%0A%20%20const%20checkArgs%20%3D%20value.startsWith('%23')%3B%0A%20%20if%20(checkArgs)%20return%20argSel(args%2C%20value)%3B%0A%0A%20%20%2F%2F%20----------%20set%20Vars%20(If%20Exists)%0A%20%20const%20%5BcondVar%2C%20varValue%5D%20%3D%20getVarValue(value%2C%20'noComponent')%3B%0A%20%20if%20(condVar)%20return%20varValue%3B%0A%0A%20%20return%20value%3B%0A%7D%3B%0A%0A

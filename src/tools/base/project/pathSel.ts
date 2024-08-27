@@ -1,13 +1,1 @@
-
-// ----------- set Path Selection
-export const pathSel = (obj?: any, path?: any) => {
-  const pathArr = path.split('.');
-
-  const reduceCb = (p, c) => {
-    return p && p[c];
-  };
-  const valueSel = pathArr.reduce(reduceCb, obj);
-
-  return valueSel;
-};
-
+%0A%2F%2F%20-----------%20set%20Path%20Selection%0Aexport%20const%20pathSel%20%3D%20(obj%3F%3A%20any%2C%20path%3F%3A%20any)%20%3D%3E%20%7B%0A%20%20const%20pathArr%20%3D%20path.split('.')%3B%0A%0A%20%20const%20reduceCb%20%3D%20(p%2C%20c)%20%3D%3E%20%7B%0A%20%20%20%20return%20p%20%26%26%20p%5Bc%5D%3B%0A%20%20%7D%3B%0A%20%20const%20valueSel%20%3D%20pathArr.reduce(reduceCb%2C%20obj)%3B%0A%0A%20%20return%20valueSel%3B%0A%7D%3B%0A%0A

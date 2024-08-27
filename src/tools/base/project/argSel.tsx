@@ -1,12 +1,1 @@
-
-// ---------- import Local Tools
-import { pathSel } from './pathSel';
-
-// ----------- set Arguments Selection
-
-export const argSel = (args: any, inputStr: any) => {
-  const path = inputStr.replace('#', '');
-  const value = pathSel(args, path);
-  return value;
-};
-
+%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20pathSel%20%7D%20from%20'.%2FpathSel'%3B%0A%0A%2F%2F%20-----------%20set%20Arguments%20Selection%0A%0Aexport%20const%20argSel%20%3D%20(args%3A%20any%2C%20inputStr%3A%20any)%20%3D%3E%20%7B%0A%20%20const%20path%20%3D%20inputStr.replace('%23'%2C%20'')%3B%0A%20%20const%20value%20%3D%20pathSel(args%2C%20path)%3B%0A%20%20return%20value%3B%0A%7D%3B%0A%0A
