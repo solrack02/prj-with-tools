@@ -1,1 +1,11 @@
-%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20useData%20%7D%20from%20'..%2F..%2F..%2F'%3B%0Aimport%20%7B%20pathSel%20%7D%20from%20'.%2FpathSel'%3B%0A%0Aexport%20const%20getCtData%20%3D%20(path%3A%20string)%20%3D%3E%20%7B%0A%20%20const%20ct%20%3D%20useData.getState()%3B%0A%20%20const%20varValue%20%3D%20pathSel(ct%2C%20path)%3B%0A%20%20return%20varValue%3B%0A%7D%3B%0A%0A
+
+// ---------- import Local Tools
+import { useData } from '../../../';
+import { pathSel } from './pathSel';
+
+export const getCtData = (path: string) => {
+  const ct = useData.getState();
+  const varValue = pathSel(ct, path);
+  return varValue;
+};
+

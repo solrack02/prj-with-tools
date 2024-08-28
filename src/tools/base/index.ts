@@ -1,1 +1,20 @@
-%0A%2F%2F%20----------%20import%20Local%20Tools%0A%2F%2F%20import%20*%20as%20functions%20from%20'.%2Ffunctions'%3B%0Aimport%20*%20as%20Elements%20from%20'.%2FElements'%3B%0Aimport%20*%20as%20project%20from%20'.%2Fproject'%3B%0A%2F%2F%20import%20*%20as%20jsvals%20from%20'.%2Fjsvals'%3B%0A%2F%2F%20import%20*%20as%20props%20from%20'.%2Fprops'%3B%0A%2F%2F%20import%20*%20as%20stls%20from%20'.%2Fstls'%3B%0A%0Aexport%20const%20base%20%3D%20%7B%0A%20%20...project%2C%0A%20%20%2F%2F%20functions%2C%0A%20%20Elements%2C%0A%0A%20%20%2F%2F%20jsvals%2C%0A%0A%20%20%2F%2F%20stls%2C%0A%20%20%2F%2F%20props%2C%0A%7D%3B%0A%0A
+
+// ---------- import Local Tools
+// import * as functions from './functions';
+import * as Elements from './Elements';
+import * as project from './project';
+// import * as jsvals from './jsvals';
+// import * as props from './props';
+// import * as stls from './stls';
+
+export const base = {
+  ...project,
+  // functions,
+  Elements,
+
+  // jsvals,
+
+  // stls,
+  // props,
+};
+

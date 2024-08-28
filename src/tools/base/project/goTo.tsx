@@ -1,1 +1,8 @@
-%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20useRoutes%20%7D%20from%20'..%2F..%2F..'%3B%0A%0A%2F%2F%20----------%20set%20GoTo%20Router%20(with%20All%20Screens%20Access)%0Aexport%20const%20goTo%20%3D%20(newRoute%3A%20string)%20%3D%3E%0A%20%20useRoutes.setState(%7B%20currRoute%3A%20newRoute%20%7D)%3B%0A%0A
+
+// ---------- import Local Tools
+import { useRoutes } from '../../..';
+
+// ---------- set GoTo Router (with All Screens Access)
+export const goTo = (newRoute: string) =>
+  useRoutes.setState({ currRoute: newRoute });
+

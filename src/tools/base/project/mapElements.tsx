@@ -1,1 +1,15 @@
-%0A%2F%2F%20----------%20import%20Packs%0Aimport%20React%20from%20'react'%3B%0A%0Atype%20Tlist%20%3D%20((args%3F%3A%20any)%20%3D%3E%20JSX.Element)%5B%5D%3B%0A%0Aexport%20const%20mapElements%20%3D%20(list%3A%20Tlist%2C%20args%3F%3A%20any)%20%3D%3E%20%7B%0A%20%20const%20condCall%20%3D%20list.flatMap(i%20%3D%3E%20i).length%20%3E%200%3B%0A%20%20const%20renderList%20%3D%20()%20%3D%3E%0A%20%20%20%20list.map((Item%2C%20idx)%20%3D%3E%20(%0A%20%20%20%20%20%20%3CReact.Fragment%20key%3D%7Bidx%7D%3E%7BItem(args)%7D%3C%2FReact.Fragment%3E%0A%20%20%20%20))%3B%0A%20%20return%20condCall%20%3F%20renderList()%20%3A%20%3C%3E%3C%2F%3E%3B%0A%7D%3B%0A%0A
+
+// ---------- import Packs
+import React from 'react';
+
+type Tlist = ((args?: any) => JSX.Element)[];
+
+export const mapElements = (list: Tlist, args?: any) => {
+  const condCall = list.flatMap(i => i).length > 0;
+  const renderList = () =>
+    list.map((Item, idx) => (
+      <React.Fragment key={idx}>{Item(args)}</React.Fragment>
+    ));
+  return condCall ? renderList() : <></>;
+};
+

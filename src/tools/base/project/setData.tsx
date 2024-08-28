@@ -1,1 +1,22 @@
-%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20useData%20%7D%20from%20'..%2F..%2F..'%3B%0A%0Aexport%20const%20setData%20%3D%20(%7B%20path%2C%20value%20%7D%3A%20%7B%20path%3A%20string%3B%20value%3A%20any%20%7D)%20%3D%3E%20%7B%0A%20%20return%20useData.setState(ct%20%3D%3E%20%7B%0A%20%20%20%20const%20newObj%20%3D%20%7B%20...ct%20%7D%3B%0A%0A%20%20%20%20const%20setVal%20%3D%20(prev%2C%20curr%2C%20i%2C%20arr)%20%3D%3E%20%7B%0A%20%20%20%20%20%20const%20condNext%20%3D%20arr%5Bi%20%2B%201%5D%3B%0A%20%20%20%20%20%20const%20condSelItem%20%3D%20()%20%3D%3E%20prev%5Bcurr%5D%20%7C%7C%20(prev%5Bcurr%5D%20%3D%20%7B%7D)%3B%0A%20%20%20%20%20%20const%20newVal%20%3D%20()%20%3D%3E%20(prev%5Bcurr%5D%20%3D%20value)%3B%0A%20%20%20%20%20%20const%20condVal%20%3D%20condNext%20%3F%20condSelItem()%20%3A%20newVal()%3B%0A%20%20%20%20%20%20return%20condVal%3B%0A%20%20%20%20%7D%3B%0A%0A%20%20%20%20path.split('.').reduce(setVal%2C%20newObj)%3B%0A%0A%20%20%20%20return%20newObj%3B%0A%20%20%7D)%3B%0A%7D%3B%0A%0A
+
+// ---------- import Local Tools
+import { useData } from '../../..';
+
+export const setData = ({ path, value }: { path: string; value: any }) => {
+  return useData.setState(ct => {
+    const newObj = { ...ct };
+
+    const setVal = (prev, curr, i, arr) => {
+      const condNext = arr[i + 1];
+      const condSelItem = () => prev[curr] || (prev[curr] = {});
+      const newVal = () => (prev[curr] = value);
+      const condVal = condNext ? condSelItem() : newVal();
+      return condVal;
+    };
+
+    path.split('.').reduce(setVal, newObj);
+
+    return newObj;
+  });
+};
+

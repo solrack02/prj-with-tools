@@ -1,1 +1,18 @@
-%0A%2F%2F%20----------%20import%20React%20Packs%0Aimport%20React%20from%20'react'%3B%0Aimport%20*%20as%20RN%20from%20'react-native'%3B%0A%0A%2F%2F%20----------%20import%20Internals%0Aimport%20%7B%20Router%20%7D%20from%20'.%2Fsrc'%3B%0A%0Aexport%20default%20function%20App()%20%7B%0A%20%20return%20%3CRouter%20%2F%3E%3B%0A%7D%0A%0ARN.AppRegistry.registerComponent('App'%2C%20()%20%3D%3E%20App)%3B%0A%0ARN.AppRegistry.runApplication('App'%2C%20%7B%0A%20%20rootTag%3A%20document.getElementById('root')%2C%0A%7D)%3B%0A%0A
+
+// ---------- import React Packs
+import React from 'react';
+import * as RN from 'react-native';
+
+// ---------- import Internals
+import { Router } from './src';
+
+export default function App() {
+  return <Router />;
+}
+
+RN.AppRegistry.registerComponent('App', () => App);
+
+RN.AppRegistry.runApplication('App', {
+  rootTag: document.getElementById('root'),
+});
+

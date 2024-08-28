@@ -1,1 +1,45 @@
-%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20getVarValue%20%7D%20from%20'.%2FgetVarValue'%3B%0A%0A%2F%2F%20----------%20import%20Packs%0Aimport%20%7B%20Style%2C%20getStylesForProperty%20%7D%20from%20'css-to-react-native'%3B%0A%0A%2F%2F%20-----------%20set%20Style%20Variable%20Selection%0Aexport%20const%20getStlValues%20%3D%20(arrGetValues%3A%20any)%20%3D%3E%20%7B%0A%20%20const%20allStls%20%3D%20arrGetValues.flatMap(style%20%3D%3E%20%7B%0A%20%20%20%20if%20(style.shadowOffset)%20return%20style%3B%0A%0A%20%20%20%20const%20possibleValues%20%3D%20Object.keys(style)%3B%0A%0A%20%20%20%20const%20setPx%20%3D%20(stlVal%3A%20any)%20%3D%3E%20%7B%0A%20%20%20%20%20%20const%20checkNum%20%3D%20typeof%20stlVal%20%3D%3D%3D%20'number'%3B%0A%20%20%20%20%20%20const%20condVal%20%3D%20checkNum%20%3F%20String(stlVal)%20%2B%20'px'%20%3A%20stlVal%3B%0A%0A%20%20%20%20%20%20return%20condVal%3B%0A%20%20%20%20%7D%3B%0A%20%20%20%20const%20result%20%3D%20possibleValues.flatMap(key%20%3D%3E%20%7B%0A%20%20%20%20%20%20const%20stlVal%20%3D%20style%5Bkey%5D%3B%0A%0A%20%20%20%20%20%20const%20%5BcondVar%2C%20varValue%5D%20%3D%20getVarValue(stlVal%2C%20'noComponent')%3B%0A%0A%20%20%20%20%20%20if%20(!condVar)%20%7B%0A%20%20%20%20%20%20%20%20const%20valToPx%20%3D%20String(setPx(stlVal))%3B%0A%20%20%20%20%20%20%20%20const%20process2%20%3D%20getStylesForProperty(key%2C%20valToPx)%3B%0A%20%20%20%20%20%20%20%20%2F%2F%20console.log(%7B%20process2%20%7D)%3B%0A%20%20%20%20%20%20%20%20return%20process2%3B%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20const%20varToPx%20%3D%20String(setPx(varValue))%3B%0A%20%20%20%20%20%20const%20process3%20%3D%20getStylesForProperty(key%2C%20varToPx%2C%20true)%3B%0A%20%20%20%20%20%20%2F%2F%20console.log(%7B%20process3%20%7D)%3B%0A%20%20%20%20%20%20return%20process3%3B%0A%20%20%20%20%7D)%3B%0A%0A%20%20%20%20return%20result%20as%20Style%5B%5D%3B%0A%20%20%20%20%2F%2F%20return%20result%3B%0A%20%20%7D)%3B%0A%0A%20%20return%20allStls%3B%0A%7D%3B%0A%0A
+
+// ---------- import Local Tools
+import { getVarValue } from './getVarValue';
+
+// ---------- import Packs
+import { Style, getStylesForProperty } from 'css-to-react-native';
+
+// ----------- set Style Variable Selection
+export const getStlValues = (arrGetValues: any) => {
+  const allStls = arrGetValues.flatMap(style => {
+    if (style.shadowOffset) return style;
+
+    const possibleValues = Object.keys(style);
+
+    const setPx = (stlVal: any) => {
+      const checkNum = typeof stlVal === 'number';
+      const condVal = checkNum ? String(stlVal) + 'px' : stlVal;
+
+      return condVal;
+    };
+    const result = possibleValues.flatMap(key => {
+      const stlVal = style[key];
+
+      const [condVar, varValue] = getVarValue(stlVal, 'noComponent');
+
+      if (!condVar) {
+        const valToPx = String(setPx(stlVal));
+        const process2 = getStylesForProperty(key, valToPx);
+        // console.log({ process2 });
+        return process2;
+      }
+
+      const varToPx = String(setPx(varValue));
+      const process3 = getStylesForProperty(key, varToPx, true);
+      // console.log({ process3 });
+      return process3;
+    });
+
+    return result as Style[];
+    // return result;
+  });
+
+  return allStls;
+};
+

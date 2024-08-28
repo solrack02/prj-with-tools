@@ -1,1 +1,48 @@
-%0A%2F%2F%20----------%20import%20Packs%0Aimport%20React%20from%20'react'%3B%0Aimport%20%7B%20Text%2C%20View%20%7D%20from%20'react-native'%3B%0A%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20getStlValues%2C%20mapElements%20%7D%20from%20'..%2Fproject'%3B%0Aimport%20%7B%20useRoutes%20%7D%20from%20'..%2F..%2F..'%3B%0A%0Atype%20Tprops%20%3D%20%7B%0A%20%20pass%3A%20%7B%0A%20%20%20%20pathScreen%3A%20string%3B%0A%20%20%20%20styles%3A%20any%3B%0A%20%20%20%20screenElements%3A%20any%3B%0A%20%20%20%20startFunctions%3A%20any%3B%0A%20%20%20%20args%3A%20any%3B%0A%20%20%7D%3B%0A%7D%3B%0A%0A%2F%2F%20Screen3%20(newBase)%0Aexport%20const%20Screen3%20%3D%20(props%3A%20Tprops)%20%3D%3E%20%7B%0A%20%20const%20%7B%20pathScreen%20%7D%20%3D%20props.pass%3B%0A%20%20const%20currRoute%20%3D%20useRoutes(ct%20%3D%3E%20ct.currRoute)%3B%0A%20%20const%20condShow%20%3D%20pathScreen%20%3D%3D%3D%20currRoute%3B%0A%0A%20%20return%20%3C%3E%7BcondShow%20%26%26%20%3CScreen3Render%20pass%3D%7Bprops.pass%7D%20%2F%3E%7D%3C%2F%3E%3B%0A%7D%3B%0A%0Afunction%20Screen3Render(props%3A%20Tprops)%20%7B%0A%20%20const%20%7B%20styles%2C%20screenElements%2C%20startFunctions%2C%20args%20%7D%20%3D%20props.pass%3B%0A%0A%20%20%2F%2F%20----------%20call%20Functions%20(If%20Exists)%0A%20%20React.useEffect(()%20%3D%3E%20%7B%0A%20%20%20%20const%20callFn%20%3D%20async%20()%20%3D%3E%20%7B%0A%20%20%20%20%20%20for%20(const%20currFunc%20of%20startFunctions)%20await%20currFunc()%3B%0A%20%20%20%20%7D%3B%0A%20%20%20%20callFn().catch(err%20%3D%3E%20console.log(%7B%20err%20%7D))%3B%0A%20%20%7D%2C%20%5B%5D)%3B%0A%0A%20%20%2F%2F%20----------%20set%20Variables%20Styles%20(If%20Exists)%0A%20%20console.log('AQUI%202'%2C%20%7B%20styles%20%7D)%3B%0A%20%20const%20stl%20%3D%20getStlValues(styles)%3B%0A%20%20console.log('AQUI%203'%2C%20%7B%20stl%20%7D)%3B%0A%0A%20%20%2F%2F%20----------%20set%20Render%0A%20%20return%20%3CView%20style%3D%7B%5Bstl%5D%7D%3E%7BmapElements(screenElements%2C%20args)%7D%3C%2FView%3E%3B%0A%7D%0A%0A
+
+// ---------- import Packs
+import React from 'react';
+import { Text, View } from 'react-native';
+
+// ---------- import Local Tools
+import { getStlValues, mapElements } from '../project';
+import { useRoutes } from '../../..';
+
+type Tprops = {
+  pass: {
+    pathScreen: string;
+    styles: any;
+    screenElements: any;
+    startFunctions: any;
+    args: any;
+  };
+};
+
+// Screen3 (newBase)
+export const Screen3 = (props: Tprops) => {
+  const { pathScreen } = props.pass;
+  const currRoute = useRoutes(ct => ct.currRoute);
+  const condShow = pathScreen === currRoute;
+
+  return <>{condShow && <Screen3Render pass={props.pass} />}</>;
+};
+
+function Screen3Render(props: Tprops) {
+  const { styles, screenElements, startFunctions, args } = props.pass;
+
+  // ---------- call Functions (If Exists)
+  React.useEffect(() => {
+    const callFn = async () => {
+      for (const currFunc of startFunctions) await currFunc();
+    };
+    callFn().catch(err => console.log({ err }));
+  }, []);
+
+  // ---------- set Variables Styles (If Exists)
+  console.log('AQUI 2', { styles });
+  const stl = getStlValues(styles);
+  console.log('AQUI 3', { stl });
+
+  // ---------- set Render
+  return <View style={[stl]}>{mapElements(screenElements, args)}</View>;
+}
+

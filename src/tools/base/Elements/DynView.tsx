@@ -1,1 +1,66 @@
-%0A%2F%2F%20----------%20import%20Packs%0Aimport%20React%20from%20'react'%3B%0Aimport%20%7B%20View%20%7D%20from%20'react-native'%3B%0A%0A%2F%2F%20----------%20import%20Local%20Tools%0Aimport%20%7B%20argSel%2C%20getStlValues%2C%20mapElements%2C%20pathSel%20%7D%20from%20'..%2Fproject'%3B%0Aimport%20%7B%20useData%20%7D%20from%20'..%2F..%2F..'%3B%0Aimport%20%7B%20backgroundColor%2C%20width%20%7D%20from%20'..%2Fstls'%3B%0A%0Aexport%20const%20css%20%3D%0A%20%20'color%3A%20lightblue%3B%20background-color%3A%20black%3B%20font-size%3A%2011px%3B%20padding%3A%202px%206px%3B%20border-radius%3A%203px'%3B%0A%0Atype%20Tprops%20%3D%20%7B%0A%20%20pass%3A%20%7B%0A%20%20%20%20elementsProperties%3A%20any%3B%0A%20%20%20%20styles%3A%20any%3B%0A%20%20%20%20variablePath%3A%20string%5B%5D%3B%0A%20%20%20%20expectedVal%3A%20string%5B%5D%3B%0A%20%20%20%20childrenItems%3A%20any%3B%0A%20%20%20%20args%3A%20any%3B%0A%20%20%7D%3B%0A%7D%3B%0A%0A%2F%2F%20DynView%20-%20ccc_dynView%20Com%20Esquema%20Join%20Leitura%20de%20Var.%20(newBase)%0Aexport%20const%20DynView%20%3D%20(props%3A%20Tprops)%20%3D%3E%20%7B%0A%20%20%2F%2F%20----------%20set%20Props%0A%20%20const%20%7B%20elementsProperties%2C%20variablePath%2C%20styles%20%7D%20%3D%20props.pass%3B%0A%20%20const%20%7B%20expectedVal%2C%20childrenItems%2C%20args%20%7D%20%3D%20props.pass%3B%0A%0A%20%20%2F%2F%20----------%20set%20VarPath%20and%20expectedVal%20as%20a%20single%20string%0A%20%20let%20varPath%20%3D%20variablePath.join()%3B%0A%20%20const%20newVal%20%3D%20expectedVal.join()%3B%0A%0A%20%20const%20condHash%20%3D%20varPath.startsWith('%23')%3B%0A%20%20let%20compareVal%20%3D%20useData(ct%20%3D%3E%20pathSel(ct%2C%20varPath))%3B%0A%20%20if%20(condHash)%20compareVal%20%3D%20argSel(args%2C%20varPath)%3B%0A%0A%20%20%2F%2F%20----------%20set%20Conditional%20Element%20Render%0A%20%20let%20condRender%20%3D%20true%3B%0A%20%20if%20(variablePath.length%20%3E%200)%20condRender%20%3D%20compareVal%20%3D%3D%3D%20newVal%3B%0A%0A%20%20%2F%2F%20----------%20set%20Variables%20Styles%20(If%20Exists)%0A%20%20const%20stl%20%3D%20getStlValues(styles)%3B%0A%0A%20%20%2F%2F%20-------%20set%20User%20Element%20Properties%20(If%20Exists)%0A%20%20const%20userElProps%3A%20any%20%3D%20%7B%7D%3B%0A%0A%20%20for%20(const%20object%20of%20elementsProperties)%20%7B%0A%20%20%20%20for%20(const%20keyProp%20in%20object)%20%7B%0A%20%20%20%20%20%20const%20valueProp%20%3D%20object%5BkeyProp%5D%3B%0A%20%20%20%20%20%20userElProps%5BkeyProp%5D%20%3D%20valueProp%3B%0A%20%20%20%20%7D%0A%20%20%7D%0A%0A%20%20const%20allProps%20%3D%20%7B%0A%20%20%20%20%2F%2F%20style%3A%20%5Bstl%2C%20%7B%20backgroundColor%3A%20'white'%2C%20height%3A%2050%2C%20width%3A%2050%20%7D%5D%2C%0A%20%20%20%20style%3A%20%5Bstl%5D%2C%0A%20%20%20%20children%3A%20mapElements(childrenItems%2C%20args)%2C%0A%20%20%20%20...userElProps%2C%0A%20%20%7D%3B%0A%0A%20%20%2F%2F%20----------%20set%20Render%0A%20%20return%20%3C%3E%7BcondRender%20%26%26%20%3CView%20%7B...allProps%7D%20%2F%3E%7D%3C%2F%3E%3B%0A%7D%3B%0A%0A
+
+// ---------- import Packs
+import React from 'react';
+import { View } from 'react-native';
+
+// ---------- import Local Tools
+import { argSel, getStlValues, mapElements, pathSel } from '../project';
+import { useData } from '../../..';
+import { backgroundColor, width } from '../stls';
+
+export const css =
+  'color: lightblue; background-color: black; font-size: 11px; padding: 2px 6px; border-radius: 3px';
+
+type Tprops = {
+  pass: {
+    elementsProperties: any;
+    styles: any;
+    variablePath: string[];
+    expectedVal: string[];
+    childrenItems: any;
+    args: any;
+  };
+};
+
+// DynView - ccc_dynView Com Esquema Join Leitura de Var. (newBase)
+export const DynView = (props: Tprops) => {
+  // ---------- set Props
+  const { elementsProperties, variablePath, styles } = props.pass;
+  const { expectedVal, childrenItems, args } = props.pass;
+
+  // ---------- set VarPath and expectedVal as a single string
+  let varPath = variablePath.join();
+  const newVal = expectedVal.join();
+
+  const condHash = varPath.startsWith('#');
+  let compareVal = useData(ct => pathSel(ct, varPath));
+  if (condHash) compareVal = argSel(args, varPath);
+
+  // ---------- set Conditional Element Render
+  let condRender = true;
+  if (variablePath.length > 0) condRender = compareVal === newVal;
+
+  // ---------- set Variables Styles (If Exists)
+  const stl = getStlValues(styles);
+
+  // ------- set User Element Properties (If Exists)
+  const userElProps: any = {};
+
+  for (const object of elementsProperties) {
+    for (const keyProp in object) {
+      const valueProp = object[keyProp];
+      userElProps[keyProp] = valueProp;
+    }
+  }
+
+  const allProps = {
+    // style: [stl, { backgroundColor: 'white', height: 50, width: 50 }],
+    style: [stl],
+    children: mapElements(childrenItems, args),
+    ...userElProps,
+  };
+
+  // ---------- set Render
+  return <>{condRender && <View {...allProps} />}</>;
+};
+
