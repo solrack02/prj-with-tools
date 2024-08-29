@@ -32,14 +32,14 @@
           pathScreen:"home",
 
           styles:[
-stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "yellow"
-        }})] }}), 
-stls.width({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "100%"
-        }})] }}), stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "30px"
-        }})] }})],
+              {
+                backgroundColor: '#101',
+                justifyContent: 'center',
+                alignItems: 'center',
+                height: '100%',
+                width: '100%',
+              }
+              ],
 
           screenElements:[
 
