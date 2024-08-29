@@ -18,7 +18,7 @@ export { CountTimer } from './CountTimer';
 export { MapPlaces } from './MapPlaces';
 export { IptPicker } from './IptPicker';
 export { Shadows } from './Shadows';
-// export { Watcher } from './Watcher';
+export { Watcher } from './Watcher';
 
 // ----- generic names
 

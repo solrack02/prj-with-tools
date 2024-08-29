@@ -6,7 +6,7 @@
 // export { CustomListener } from './CustomListener';
 
 // export { Loader } from './Loader';
-// export { Pressable3 } from './Pressable3';
+export { Pressable3 } from './Pressable3';
 
 // export { FlatList2 } from './FlatList2';
 
@@ -29,8 +29,8 @@ export { Screen3 } from './Screen3';
 // export { IptTxt2 } from './IptTxt2';
 // export { IptTxtEdit } from './IptTxtEdit';
 
-// export { ImageBox } from './ImageBox';
-// export { Text } from './Text';
+export { ImageBox } from './ImageBox';
+export { Text } from './Text';
 
 // // export { expoUpdate } from './expoUpdate';
 // export { Modelo } from './Modelo';

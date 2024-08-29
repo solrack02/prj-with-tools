@@ -54,7 +54,7 @@ export const DynView = (props: Tprops) => {
   }
 
   const allProps = {
-    // style: [stl, { backgroundColor: 'white', height: 50, width: 50 }],
+    // style: [stl],
     style: [stl],
     children: mapElements(childrenItems, args),
     ...userElProps,

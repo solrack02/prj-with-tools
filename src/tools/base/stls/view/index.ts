@@ -26,7 +26,7 @@ export const backgroundColor = (props: Tprops_backgroundColor) => {
     const isNumber = !isNaN(arrayValue);
     if (isNumber) arrayValue = Number(arrayValue);
   }
-console.log("AQUI 200", {arrayValue});
+
   return { backgroundColor: arrayValue };
 };
 
