@@ -15846,7 +15846,7 @@
               },
               "capsIptCapsDescription": {
                 "pt-br": "Define os valores para o Deslocamento",
-                "en": "Sets the values ​​for the offset"
+                "en": "Sets the values for the offset"
               },
               "capsIptCapsDfCode": "[1,2,3]",
               "capsIptCapsTypesToAdd": ["string process"]
@@ -18009,7 +18009,7 @@
               },
               "capsIptCapsDescription": {
                 "pt-br": "Defina os valores para a área de toque.",
-                "en": "Set the values ​​for the touch area."
+                "en": "Set the values for the touch area."
               },
               "capsIptCapsDfCode": "{top: 10, bottom: 10, left: 0, right: 0}",
               "capsIptCapsTypesToAdd": ["string process"]
