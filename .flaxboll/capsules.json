@@ -2482,7 +2482,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": []
+          "capsIptCapsValue": ["844f6c79-7089-44ac-92c7-7d00acbfb751"]
         }
       },
       "capsUseConections": "1"
