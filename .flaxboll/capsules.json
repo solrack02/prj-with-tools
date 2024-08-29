@@ -91,7 +91,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": []
+          "capsIptCapsValue": ["28e5ff5d-4c28-4f89-b82c-ff2146188db0"]
         }
       },
       "capsUseConections": "1"
