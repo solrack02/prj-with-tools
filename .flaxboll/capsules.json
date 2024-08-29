@@ -2482,7 +2482,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": ["844f6c79-7089-44ac-92c7-7d00acbfb751"]
+          "capsIptCapsValue": ["nnn_new_code"]
         }
       },
       "capsUseConections": "1"
@@ -14255,6 +14255,45 @@
         "sss_freeValue-0": {
           "capsIptCodeID": "sss_freeValue-0",
           "capsIptTxtValue": "// ---------- import React Packs\nimport React from 'react';\nimport * as RN from 'react-native';\n\n// ---------- import Internals\nimport { Router } from './src';\n\nexport default function App() {\n  return <Router />;\n}\n\nRN.AppRegistry.registerComponent('App', () => App);\n\nRN.AppRegistry.runApplication('App', {\n  rootTag: document.getElementById('root'),\n});\n"
+        }
+      },
+      "capsUseConections": "1"
+    }
+  },
+  "nnn_new_code": {
+    "capsType": "useCode",
+    "capsDB": {
+      "capsID": "nnn_new_code",
+      "capsPrjID": "d2AmHFkDUj50umUfSQQ0",
+      "capsUserID": "yOiD5acPfFPoLZpEbfy5",
+      "capsCreatedAt": 1724436005995
+    },
+    "capsUseCodeInfo": {
+      "parents": {
+        "conn_1": {
+          "connID": "conn_1",
+          "capsParentIptID": "sss_fileSystem-1",
+          "parentData": {
+            "parentConnID": "conn_1",
+            "capsParentID": "53e35320-8ce8-4dea-888f-8353c3fb59d6"
+          }
+        }
+      },
+      "capsCodeID": "sss_freeValue",
+      "capsCodeVersionID": "1",
+      "capsUpdatedAt": [1724436005995],
+      "capsUseLabel": {
+        "pt-br": "code",
+        "en": "code"
+      },
+      "capsUseDescription": {
+        "pt-br": "free value",
+        "en": "free value"
+      },
+      "capsUseInputs": {
+        "sss_freeValue-0": {
+          "capsIptCodeID": "sss_freeValue-0",
+          "capsIptTxtValue": "// F7 - loop (newBase)\ntype Tprops_loop = { pass: { A: any; B: any } };\nexport const loop =\n  (props: Tprops_loop) =>\n  async (...args: any) => {\n    const { A, B } = props.pass;\n\n    // -------------- Major Loop\n  };\n"
         }
       },
       "capsUseConections": "1"
