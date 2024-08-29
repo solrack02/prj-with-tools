@@ -1941,7 +1941,7 @@
       "1": {
         "capsLabel": {
           "pt-br": "Máscara CNPJ - Entrada de Texto",
-          "en": ""
+          "en": "CNPJ Mask - Text Input"
         },
         "capsDescription": {
           "pt-br": "",
@@ -2054,7 +2054,7 @@
       "1": {
         "capsLabel": {
           "pt-br": "Máscara CPF - Entrada de Texto",
-          "en": ""
+          "en": "CPF Mask - Text Input"
         },
         "capsDescription": {
           "pt-br": "",
@@ -2167,7 +2167,7 @@
       "1": {
         "capsLabel": {
           "pt-br": "Máscara RG - Entrada de Texto",
-          "en": ""
+          "en": "RG Mask - Text Input"
         },
         "capsDescription": {
           "pt-br": "",
@@ -2280,7 +2280,7 @@
       "1": {
         "capsLabel": {
           "pt-br": "Máscara Telefone - Entrada de Texto",
-          "en": ""
+          "en": "Phone Mask - Text Input"
         },
         "capsDescription": {
           "pt-br": "",
@@ -2393,7 +2393,7 @@
       "1": {
         "capsLabel": {
           "pt-br": "Máscara Cartão de Crédito - Entrada de Texto",
-          "en": ""
+          "en": "Credit Card Mask - Text Input"
         },
         "capsDescription": {
           "pt-br": "",
@@ -2506,7 +2506,7 @@
       "1": {
         "capsLabel": {
           "pt-br": "Máscara Senha - Entrada de Texto",
-          "en": ""
+          "en": "Password Mask - Text Input"
         },
         "capsDescription": {
           "pt-br": "",
@@ -2619,7 +2619,7 @@
       "1": {
         "capsLabel": {
           "pt-br": "Máscara Apenas Números - Entrada de Texto",
-          "en": ""
+          "en": "Only Numbers - Text Input"
         },
         "capsDescription": {
           "pt-br": "",
