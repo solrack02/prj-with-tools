@@ -3735,7 +3735,8 @@
     "capsCodeInfo": {
       "1": {
         "capsLabel": {
-          "pt-br": "func Group"
+          "pt-br": "func Group",
+          "en": "func Group"
         },
         "capsVersionCreatedAt": {
           "seconds": 1669821908,
@@ -3745,7 +3746,8 @@
         "capsCodeVersionID": "1",
         "capsCodeText": "async (...args) =>\n          functions.funcGroup({ args, pass:{\n            arrFunctions: [!#!1!#!]\n          }})",
         "capsDescription": {
-          "pt-br": ""
+          "pt-br": "",
+          "en": ""
         },
         "capsCodeInputs": {
           "ccc_funcGroup-0": {
@@ -5698,7 +5700,8 @@
     "capsCodeInfo": {
       "1": {
         "capsLabel": {
-          "pt-br": "stlGroup"
+          "pt-br": "stlGroup",
+          "en": "stlGroup"
         },
         "capsVersionCreatedAt": {
           "seconds": 1669821908,
