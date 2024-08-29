@@ -31,15 +31,7 @@
         (...args: any) => <Elements.Screen3 pass={{
           pathScreen:"home",
 
-          styles:[
-stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "yellow"
-        }})] }}), 
-stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "30px"
-        }})] }}), stls.width({ pass: { arrayValue: [jsvals.j8({pass: {
-          propertieValues: "100%"
-        }})] }})],
+          styles:[[]],
 
           screenElements:[
 
