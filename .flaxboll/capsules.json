@@ -75,9 +75,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723587896294
-      ],
+      "capsUpdatedAt": [1723587896294],
       "capsUseLabel": {
         "pt-br": ".flaxboll",
         "en": ".flaxboll"
@@ -93,9 +91,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "28e5ff5d-4c28-4f89-b82c-ff2146188db0"
-          ]
+          "capsIptCapsValue": ["28e5ff5d-4c28-4f89-b82c-ff2146188db0"]
         }
       },
       "capsUseConections": "1"
@@ -122,9 +118,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723587944396
-      ],
+      "capsUpdatedAt": [1723587944396],
       "capsUseLabel": {
         "pt-br": "seeds.json",
         "en": "seeds.json"
@@ -175,9 +169,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723588020252
-      ],
+      "capsUpdatedAt": [1723588020252],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "{"
@@ -216,9 +208,7 @@
       },
       "capsCodeID": "sss_joinfreeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723598428186
-      ],
+      "capsUpdatedAt": [1723598428186],
       "capsUseLabel": {
         "pt-br": "join free value",
         "en": "- SYSTEM -"
@@ -260,9 +250,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723588859042
-      ],
+      "capsUpdatedAt": [1723588859042],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "free value"
@@ -301,9 +289,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723588894613
-      ],
+      "capsUpdatedAt": [1723588894613],
       "capsUseLabel": {
         "pt-br": "valor livre",
         "en": "free value"
@@ -342,9 +328,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724368072971
-      ],
+      "capsUpdatedAt": [1724368072971],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "ccc_project,"
@@ -383,9 +367,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724371188086
-      ],
+      "capsUpdatedAt": [1724371188086],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "ccc_screen,"
@@ -424,9 +406,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724375433843
-      ],
+      "capsUpdatedAt": [1724375433843],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "ccc_dynView,"
@@ -465,9 +445,7 @@
       },
       "capsCodeID": "sss_joinfreeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724368150603
-      ],
+      "capsUpdatedAt": [1724368150603],
       "capsUseLabel": {
         "pt-br": "join free value",
         "en": "- FINAL ESSENTIALS -"
@@ -509,9 +487,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723597803550
-      ],
+      "capsUpdatedAt": [1723597803550],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "sss_joinfreeValue,"
@@ -550,9 +526,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723588928865
-      ],
+      "capsUpdatedAt": [1723588928865],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "sss_freeValue (sem vírgula)"
@@ -591,9 +565,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1723588960436
-      ],
+      "capsUpdatedAt": [1723588960436],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "}"
@@ -632,9 +604,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724363552706
-      ],
+      "capsUpdatedAt": [1724363552706],
       "capsUseLabel": {
         "pt-br": "dirSystem",
         "en": "src"
@@ -680,9 +650,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005977
-      ],
+      "capsUpdatedAt": [1724436005977],
       "capsUseLabel": {
         "pt-br": "tools",
         "en": "tools"
@@ -729,9 +697,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005978
-      ],
+      "capsUpdatedAt": [1724436005978],
       "capsUseLabel": {
         "pt-br": "base",
         "en": "base"
@@ -784,9 +750,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005983
-      ],
+      "capsUpdatedAt": [1724436005983],
       "capsUseLabel": {
         "pt-br": "Elements",
         "en": "Elements"
@@ -858,9 +822,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005984
-      ],
+      "capsUpdatedAt": [1724436005984],
       "capsUseLabel": {
         "pt-br": "AutocompleteGooglePlaces.tsx",
         "en": "AutocompleteGooglePlaces.tsx"
@@ -876,9 +838,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "51abe8cf-9c04-4de8-bab8-b05b76cb0dd4"
-          ]
+          "capsIptCapsValue": ["51abe8cf-9c04-4de8-bab8-b05b76cb0dd4"]
         }
       },
       "capsUseConections": "1"
@@ -905,9 +865,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005984
-      ],
+      "capsUpdatedAt": [1724436005984],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -946,9 +904,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005984
-      ],
+      "capsUpdatedAt": [1724436005984],
       "capsUseLabel": {
         "pt-br": "CustomListener.tsx",
         "en": "CustomListener.tsx"
@@ -964,9 +920,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "d0cb665e-bce0-4b5a-b39b-c4ee059c4bac"
-          ]
+          "capsIptCapsValue": ["d0cb665e-bce0-4b5a-b39b-c4ee059c4bac"]
         }
       },
       "capsUseConections": "1"
@@ -993,9 +947,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005985
-      ],
+      "capsUpdatedAt": [1724436005985],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1034,9 +986,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005985
-      ],
+      "capsUpdatedAt": [1724436005985],
       "capsUseLabel": {
         "pt-br": "DynView.tsx",
         "en": "DynView.tsx"
@@ -1052,9 +1002,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "09c4c85c-2dd8-439b-a0d8-80eeac65d933"
-          ]
+          "capsIptCapsValue": ["09c4c85c-2dd8-439b-a0d8-80eeac65d933"]
         }
       },
       "capsUseConections": "1"
@@ -1081,9 +1029,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005985
-      ],
+      "capsUpdatedAt": [1724436005985],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1095,7 +1041,7 @@
       "capsUseInputs": {
         "sss_freeValue-0": {
           "capsIptCodeID": "sss_freeValue-0",
-          "capsIptTxtValue": "// ---------- import Packs\nimport React from 'react';\nimport { View } from 'react-native';\n\n// ---------- import Local Tools\nimport { argSel, getStlValues, mapElements, pathSel } from '../project';\nimport { useData } from '../../..';\nimport { backgroundColor, width } from '../stls';\n\nexport const css =\n  'color: lightblue; background-color: black; font-size: 11px; padding: 2px 6px; border-radius: 3px';\n\ntype Tprops = {\n  pass: {\n    elementsProperties: any;\n    styles: any;\n    variablePath: string[];\n    expectedVal: string[];\n    childrenItems: any;\n    args: any;\n  };\n};\n\n// DynView - ccc_dynView Com Esquema Join Leitura de Var. (newBase)\nexport const DynView = (props: Tprops) => {\n  // ---------- set Props\n  const { elementsProperties, variablePath, styles } = props.pass;\n  const { expectedVal, childrenItems, args } = props.pass;\n\n  // ---------- set VarPath and expectedVal as a single string\n  let varPath = variablePath.join();\n  const newVal = expectedVal.join();\n\n  const condHash = varPath.startsWith('#');\n  let compareVal = useData(ct => pathSel(ct, varPath));\n  if (condHash) compareVal = argSel(args, varPath);\n\n  // ---------- set Conditional Element Render\n  let condRender = true;\n  if (variablePath.length > 0) condRender = compareVal === newVal;\n\n  // ---------- set Variables Styles (If Exists)\n  const stl = getStlValues(styles);\n\n  // ------- set User Element Properties (If Exists)\n  const userElProps: any = {};\n\n  for (const object of elementsProperties) {\n    for (const keyProp in object) {\n      const valueProp = object[keyProp];\n      userElProps[keyProp] = valueProp;\n    }\n  }\n\n  const allProps = {\n    style: [stl, { backgroundColor: 'white', height: 50, width: 50 }],\n    children: mapElements(childrenItems, args),\n    ...userElProps,\n  };\n\n  // ---------- set Render\n  return <>{condRender && <View {...allProps} />}</>;\n};\n"
+          "capsIptTxtValue": "// ---------- import Packs\nimport React from 'react';\nimport { View } from 'react-native';\n\n// ---------- import Local Tools\nimport { argSel, getStlValues, mapElements, pathSel } from '../project';\nimport { useData } from '../../..';\nimport { backgroundColor, width } from '../stls';\n\nexport const css =\n  'color: lightblue; background-color: black; font-size: 11px; padding: 2px 6px; border-radius: 3px';\n\ntype Tprops = {\n  pass: {\n    elementsProperties: any;\n    styles: any;\n    variablePath: string[];\n    expectedVal: string[];\n    childrenItems: any;\n    args: any;\n  };\n};\n\n// DynView - ccc_dynView Com Esquema Join Leitura de Var. (newBase)\nexport const DynView = (props: Tprops) => {\n  // ---------- set Props\n  const { elementsProperties, variablePath, styles } = props.pass;\n  const { expectedVal, childrenItems, args } = props.pass;\n\n  // ---------- set VarPath and expectedVal as a single string\n  let varPath = variablePath.join();\n  const newVal = expectedVal.join();\n\n  const condHash = varPath.startsWith('#');\n  let compareVal = useData(ct => pathSel(ct, varPath));\n  if (condHash) compareVal = argSel(args, varPath);\n\n  // ---------- set Conditional Element Render\n  let condRender = true;\n  if (variablePath.length > 0) condRender = compareVal === newVal;\n\n  // ---------- set Variables Styles (If Exists)\n  const stl = getStlValues(styles);\n\n  // ------- set User Element Properties (If Exists)\n  const userElProps: any = {};\n\n  for (const object of elementsProperties) {\n    for (const keyProp in object) {\n      const valueProp = object[keyProp];\n      userElProps[keyProp] = valueProp;\n    }\n  }\n\n  const allProps = {\n    // style: [stl],\n    style: [stl],\n    children: mapElements(childrenItems, args),\n    ...userElProps,\n  };\n\n  // ---------- set Render\n  return <>{condRender && <View {...allProps} />}</>;\n};\n"
         }
       },
       "capsUseConections": "1"
@@ -1122,9 +1068,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005985
-      ],
+      "capsUpdatedAt": [1724436005985],
       "capsUseLabel": {
         "pt-br": "FlatList2.tsx",
         "en": "FlatList2.tsx"
@@ -1140,9 +1084,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "65eb5d8f-8e07-4a74-9b38-d27edaf9cedb"
-          ]
+          "capsIptCapsValue": ["65eb5d8f-8e07-4a74-9b38-d27edaf9cedb"]
         }
       },
       "capsUseConections": "1"
@@ -1169,9 +1111,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005985
-      ],
+      "capsUpdatedAt": [1724436005985],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1210,9 +1150,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005986
-      ],
+      "capsUpdatedAt": [1724436005986],
       "capsUseLabel": {
         "pt-br": "ImageBox.tsx",
         "en": "ImageBox.tsx"
@@ -1228,9 +1166,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "ccfc9645-d692-4dc2-acc3-5d84494bb407"
-          ]
+          "capsIptCapsValue": ["ccfc9645-d692-4dc2-acc3-5d84494bb407"]
         }
       },
       "capsUseConections": "1"
@@ -1257,9 +1193,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005986
-      ],
+      "capsUpdatedAt": [1724436005986],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1298,9 +1232,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005986
-      ],
+      "capsUpdatedAt": [1724436005986],
       "capsUseLabel": {
         "pt-br": "IptPicker1.tsx",
         "en": "IptPicker1.tsx"
@@ -1343,9 +1275,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005986
-      ],
+      "capsUpdatedAt": [1724436005986],
       "capsUseLabel": {
         "pt-br": "IptTxt2.tsx",
         "en": "IptTxt2.tsx"
@@ -1388,9 +1318,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005987
-      ],
+      "capsUpdatedAt": [1724436005987],
       "capsUseLabel": {
         "pt-br": "IptTxtEdit.tsx",
         "en": "IptTxtEdit.tsx"
@@ -1406,9 +1334,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "4a541072-7bf3-4396-87fd-11e9879a9e04"
-          ]
+          "capsIptCapsValue": ["4a541072-7bf3-4396-87fd-11e9879a9e04"]
         }
       },
       "capsUseConections": "1"
@@ -1435,9 +1361,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005987
-      ],
+      "capsUpdatedAt": [1724436005987],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1476,9 +1400,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005987
-      ],
+      "capsUpdatedAt": [1724436005987],
       "capsUseLabel": {
         "pt-br": "Loader.tsx",
         "en": "Loader.tsx"
@@ -1494,9 +1416,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "83ba7359-077a-4bb5-81ca-f884d8a14c9a"
-          ]
+          "capsIptCapsValue": ["83ba7359-077a-4bb5-81ca-f884d8a14c9a"]
         }
       },
       "capsUseConections": "1"
@@ -1523,9 +1443,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005988
-      ],
+      "capsUpdatedAt": [1724436005988],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1564,9 +1482,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005988
-      ],
+      "capsUpdatedAt": [1724436005988],
       "capsUseLabel": {
         "pt-br": "Login.tsx",
         "en": "Login.tsx"
@@ -1582,9 +1498,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7d48ab0a-bf32-4fe2-99c6-bc478137fba3"
-          ]
+          "capsIptCapsValue": ["7d48ab0a-bf32-4fe2-99c6-bc478137fba3"]
         }
       },
       "capsUseConections": "1"
@@ -1611,9 +1525,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005988
-      ],
+      "capsUpdatedAt": [1724436005988],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1652,9 +1564,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005988
-      ],
+      "capsUpdatedAt": [1724436005988],
       "capsUseLabel": {
         "pt-br": "MapPlaces.tsx",
         "en": "MapPlaces.tsx"
@@ -1670,9 +1580,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a25b368d-43c9-44a5-8192-f7c25da023df"
-          ]
+          "capsIptCapsValue": ["a25b368d-43c9-44a5-8192-f7c25da023df"]
         }
       },
       "capsUseConections": "1"
@@ -1699,9 +1607,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005988
-      ],
+      "capsUpdatedAt": [1724436005988],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1740,9 +1646,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005988
-      ],
+      "capsUpdatedAt": [1724436005988],
       "capsUseLabel": {
         "pt-br": "Modelo.tsx",
         "en": "Modelo.tsx"
@@ -1758,9 +1662,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "4a695c9c-5cf4-4e99-bb65-de5e686c358c"
-          ]
+          "capsIptCapsValue": ["4a695c9c-5cf4-4e99-bb65-de5e686c358c"]
         }
       },
       "capsUseConections": "1"
@@ -1787,9 +1689,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005989
-      ],
+      "capsUpdatedAt": [1724436005989],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1828,9 +1728,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005989
-      ],
+      "capsUpdatedAt": [1724436005989],
       "capsUseLabel": {
         "pt-br": "Pressable3.tsx",
         "en": "Pressable3.tsx"
@@ -1846,9 +1744,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "45fb4c34-8f0f-43d5-a414-2b1d82f7cedd"
-          ]
+          "capsIptCapsValue": ["45fb4c34-8f0f-43d5-a414-2b1d82f7cedd"]
         }
       },
       "capsUseConections": "1"
@@ -1875,9 +1771,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005989
-      ],
+      "capsUpdatedAt": [1724436005989],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -1916,9 +1810,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005989
-      ],
+      "capsUpdatedAt": [1724436005989],
       "capsUseLabel": {
         "pt-br": "Screen1.tsx",
         "en": "Screen1.tsx"
@@ -1934,9 +1826,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "f9abaed2-71c4-448c-9925-eb60f62bfd5e"
-          ]
+          "capsIptCapsValue": ["f9abaed2-71c4-448c-9925-eb60f62bfd5e"]
         }
       },
       "capsUseConections": "1"
@@ -1963,9 +1853,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005990
-      ],
+      "capsUpdatedAt": [1724436005990],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2004,9 +1892,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005990
-      ],
+      "capsUpdatedAt": [1724436005990],
       "capsUseLabel": {
         "pt-br": "Screen3.tsx",
         "en": "Screen3.tsx"
@@ -2022,9 +1908,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a7571c8f-faca-402e-89ea-29b5a62a90ab"
-          ]
+          "capsIptCapsValue": ["a7571c8f-faca-402e-89ea-29b5a62a90ab"]
         }
       },
       "capsUseConections": "1"
@@ -2051,9 +1935,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005990
-      ],
+      "capsUpdatedAt": [1724436005990],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2092,9 +1974,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005990
-      ],
+      "capsUpdatedAt": [1724436005990],
       "capsUseLabel": {
         "pt-br": "ScrollBar.tsx",
         "en": "ScrollBar.tsx"
@@ -2110,9 +1990,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "5c717bdf-ea55-4698-aa6a-98727fef13fe"
-          ]
+          "capsIptCapsValue": ["5c717bdf-ea55-4698-aa6a-98727fef13fe"]
         }
       },
       "capsUseConections": "1"
@@ -2139,9 +2017,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005991
-      ],
+      "capsUpdatedAt": [1724436005991],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2180,9 +2056,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005992
-      ],
+      "capsUpdatedAt": [1724436005992],
       "capsUseLabel": {
         "pt-br": "Text.tsx",
         "en": "Text.tsx"
@@ -2198,9 +2072,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "65524307-852d-4c4e-a8f4-7d2a51915f71"
-          ]
+          "capsIptCapsValue": ["65524307-852d-4c4e-a8f4-7d2a51915f71"]
         }
       },
       "capsUseConections": "1"
@@ -2227,9 +2099,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005992
-      ],
+      "capsUpdatedAt": [1724436005992],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2268,9 +2138,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005992
-      ],
+      "capsUpdatedAt": [1724436005992],
       "capsUseLabel": {
         "pt-br": "Tprops_propValueTextInput.tsx",
         "en": "Tprops_propValueTextInput.tsx"
@@ -2286,9 +2154,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "3562b31d-4bbb-4a4d-b222-e42f9db22b78"
-          ]
+          "capsIptCapsValue": ["3562b31d-4bbb-4a4d-b222-e42f9db22b78"]
         }
       },
       "capsUseConections": "1"
@@ -2315,9 +2181,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005993
-      ],
+      "capsUpdatedAt": [1724436005993],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2356,9 +2220,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005993
-      ],
+      "capsUpdatedAt": [1724436005993],
       "capsUseLabel": {
         "pt-br": "custom.tsx",
         "en": "custom.tsx"
@@ -2374,9 +2236,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "f2af8aa9-8437-4360-8b1b-604a460a6d06"
-          ]
+          "capsIptCapsValue": ["f2af8aa9-8437-4360-8b1b-604a460a6d06"]
         }
       },
       "capsUseConections": "1"
@@ -2403,9 +2263,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005993
-      ],
+      "capsUpdatedAt": [1724436005993],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2444,9 +2302,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005993
-      ],
+      "capsUpdatedAt": [1724436005993],
       "capsUseLabel": {
         "pt-br": "expoUpdate.tsx",
         "en": "expoUpdate.tsx"
@@ -2462,9 +2318,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "8fd23585-c199-4cd3-be8f-4a55bd52e6f1"
-          ]
+          "capsIptCapsValue": ["8fd23585-c199-4cd3-be8f-4a55bd52e6f1"]
         }
       },
       "capsUseConections": "1"
@@ -2491,9 +2345,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005994
-      ],
+      "capsUpdatedAt": [1724436005994],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2532,9 +2384,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005994
-      ],
+      "capsUpdatedAt": [1724436005994],
       "capsUseLabel": {
         "pt-br": "if.tsx",
         "en": "if.tsx"
@@ -2550,9 +2400,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c07e1b9a-71ff-4fd3-a11e-250274f50320"
-          ]
+          "capsIptCapsValue": ["c07e1b9a-71ff-4fd3-a11e-250274f50320"]
         }
       },
       "capsUseConections": "1"
@@ -2579,9 +2427,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005994
-      ],
+      "capsUpdatedAt": [1724436005994],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2620,9 +2466,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005994
-      ],
+      "capsUpdatedAt": [1724436005994],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -2665,9 +2509,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "loop.tsx",
         "en": "loop.tsx"
@@ -2683,9 +2525,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "844f6c79-7089-44ac-92c7-7d00acbfb751"
-          ]
+          "capsIptCapsValue": ["844f6c79-7089-44ac-92c7-7d00acbfb751"]
         }
       },
       "capsUseConections": "1"
@@ -2712,9 +2552,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2753,9 +2591,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "newCallback.tsx",
         "en": "newCallback.tsx"
@@ -2771,9 +2607,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e44ad09f-3db3-4dcc-a3ec-9045a64816c2"
-          ]
+          "capsIptCapsValue": ["e44ad09f-3db3-4dcc-a3ec-9045a64816c2"]
         }
       },
       "capsUseConections": "1"
@@ -2800,9 +2634,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2841,9 +2673,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "setThumbnail.tsx",
         "en": "setThumbnail.tsx"
@@ -2859,9 +2689,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e53f29ea-6d19-43f4-8a60-10da6838a962"
-          ]
+          "capsIptCapsValue": ["e53f29ea-6d19-43f4-8a60-10da6838a962"]
         }
       },
       "capsUseConections": "1"
@@ -2888,9 +2716,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -2929,9 +2755,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "setTimeOut.tsx",
         "en": "setTimeOut.tsx"
@@ -2947,9 +2771,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e41d16b1-291e-4bee-a078-9ad2f4b4b03f"
-          ]
+          "capsIptCapsValue": ["e41d16b1-291e-4bee-a078-9ad2f4b4b03f"]
         }
       },
       "capsUseConections": "1"
@@ -2976,9 +2798,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3017,9 +2837,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005995
-      ],
+      "capsUpdatedAt": [1724436005995],
       "capsUseLabel": {
         "pt-br": "setVar.tsx",
         "en": "setVar.tsx"
@@ -3035,9 +2853,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "779e28c3-357f-4bc5-94b4-7f60a21a46a5"
-          ]
+          "capsIptCapsValue": ["779e28c3-357f-4bc5-94b4-7f60a21a46a5"]
         }
       },
       "capsUseConections": "1"
@@ -3064,9 +2880,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005996
-      ],
+      "capsUpdatedAt": [1724436005996],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3105,9 +2919,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005996
-      ],
+      "capsUpdatedAt": [1724436005996],
       "capsUseLabel": {
         "pt-br": "uploadImgs.tsx",
         "en": "uploadImgs.tsx"
@@ -3123,9 +2935,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7d6730a0-df19-435b-9eed-811e1aab6ceb"
-          ]
+          "capsIptCapsValue": ["7d6730a0-df19-435b-9eed-811e1aab6ceb"]
         }
       },
       "capsUseConections": "1"
@@ -3152,9 +2962,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005996
-      ],
+      "capsUpdatedAt": [1724436005996],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3193,9 +3001,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005996
-      ],
+      "capsUpdatedAt": [1724436005996],
       "capsUseLabel": {
         "pt-br": "functions",
         "en": "functions"
@@ -3253,9 +3059,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005996
-      ],
+      "capsUpdatedAt": [1724436005996],
       "capsUseLabel": {
         "pt-br": "arrayPush.ts",
         "en": "arrayPush.ts"
@@ -3271,9 +3075,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "701ceba7-5513-47dd-9109-db6120c91d31"
-          ]
+          "capsIptCapsValue": ["701ceba7-5513-47dd-9109-db6120c91d31"]
         }
       },
       "capsUseConections": "1"
@@ -3300,9 +3102,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3341,9 +3141,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "condition.ts",
         "en": "condition.ts"
@@ -3359,9 +3157,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7a6b61d5-3f99-48b1-8ef7-ef205b482311"
-          ]
+          "capsIptCapsValue": ["7a6b61d5-3f99-48b1-8ef7-ef205b482311"]
         }
       },
       "capsUseConections": "1"
@@ -3388,9 +3184,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3429,9 +3223,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "decrement.ts",
         "en": "decrement.ts"
@@ -3447,9 +3239,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "8c177e60-00f3-4830-a43c-14cd5310f512"
-          ]
+          "capsIptCapsValue": ["8c177e60-00f3-4830-a43c-14cd5310f512"]
         }
       },
       "capsUseConections": "1"
@@ -3476,9 +3266,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3517,9 +3305,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "fetchResponse.ts",
         "en": "fetchResponse.ts"
@@ -3535,9 +3321,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "edab9920-224c-4927-a87f-9fceadc80878"
-          ]
+          "capsIptCapsValue": ["edab9920-224c-4927-a87f-9fceadc80878"]
         }
       },
       "capsUseConections": "1"
@@ -3564,9 +3348,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3605,9 +3387,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "firebase",
         "en": "firebase"
@@ -3661,9 +3441,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005997
-      ],
+      "capsUpdatedAt": [1724436005997],
       "capsUseLabel": {
         "pt-br": "deleteDoc.ts",
         "en": "deleteDoc.ts"
@@ -3679,9 +3457,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "76180574-b18c-4614-972f-c7e3cbf0c4aa"
-          ]
+          "capsIptCapsValue": ["76180574-b18c-4614-972f-c7e3cbf0c4aa"]
         }
       },
       "capsUseConections": "1"
@@ -3708,9 +3484,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005998
-      ],
+      "capsUpdatedAt": [1724436005998],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3749,9 +3523,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005998
-      ],
+      "capsUpdatedAt": [1724436005998],
       "capsUseLabel": {
         "pt-br": "fireInit.ts",
         "en": "fireInit.ts"
@@ -3767,9 +3539,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "6a8857c2-f93d-4abc-8d3e-2e28687a060a"
-          ]
+          "capsIptCapsValue": ["6a8857c2-f93d-4abc-8d3e-2e28687a060a"]
         }
       },
       "capsUseConections": "1"
@@ -3796,9 +3566,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005998
-      ],
+      "capsUpdatedAt": [1724436005998],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3837,9 +3605,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005998
-      ],
+      "capsUpdatedAt": [1724436005998],
       "capsUseLabel": {
         "pt-br": "getDoc.ts",
         "en": "getDoc.ts"
@@ -3855,9 +3621,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "5efb3103-4a72-4bbe-9a68-df2bf20be573"
-          ]
+          "capsIptCapsValue": ["5efb3103-4a72-4bbe-9a68-df2bf20be573"]
         }
       },
       "capsUseConections": "1"
@@ -3884,9 +3648,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005999
-      ],
+      "capsUpdatedAt": [1724436005999],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -3925,9 +3687,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005999
-      ],
+      "capsUpdatedAt": [1724436005999],
       "capsUseLabel": {
         "pt-br": "getDocs.ts",
         "en": "getDocs.ts"
@@ -3943,9 +3703,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "5a2373a7-4515-4196-b885-82954e75582b"
-          ]
+          "capsIptCapsValue": ["5a2373a7-4515-4196-b885-82954e75582b"]
         }
       },
       "capsUseConections": "1"
@@ -3972,9 +3730,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005999
-      ],
+      "capsUpdatedAt": [1724436005999],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4013,9 +3769,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005999
-      ],
+      "capsUpdatedAt": [1724436005999],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -4031,9 +3785,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "26e57f50-ec3b-49a6-a3c7-0c5607bbd50e"
-          ]
+          "capsIptCapsValue": ["26e57f50-ec3b-49a6-a3c7-0c5607bbd50e"]
         }
       },
       "capsUseConections": "1"
@@ -4060,9 +3812,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005999
-      ],
+      "capsUpdatedAt": [1724436005999],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4101,9 +3851,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436005999
-      ],
+      "capsUpdatedAt": [1724436005999],
       "capsUseLabel": {
         "pt-br": "setDoc.ts",
         "en": "setDoc.ts"
@@ -4119,9 +3867,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "938bc73d-5ea1-4c7e-b04b-ffe1b51f1c9c"
-          ]
+          "capsIptCapsValue": ["938bc73d-5ea1-4c7e-b04b-ffe1b51f1c9c"]
         }
       },
       "capsUseConections": "1"
@@ -4148,9 +3894,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4189,9 +3933,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "updateDoc.ts",
         "en": "updateDoc.ts"
@@ -4207,9 +3949,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "601f77d6-dc04-48f5-aa75-03dbda348961"
-          ]
+          "capsIptCapsValue": ["601f77d6-dc04-48f5-aa75-03dbda348961"]
         }
       },
       "capsUseConections": "1"
@@ -4236,9 +3976,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4277,9 +4015,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "uploadFile.ts",
         "en": "uploadFile.ts"
@@ -4295,9 +4031,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "0e1ba4b0-147d-4499-abf4-4ed9d8debb14"
-          ]
+          "capsIptCapsValue": ["0e1ba4b0-147d-4499-abf4-4ed9d8debb14"]
         }
       },
       "capsUseConections": "1"
@@ -4324,9 +4058,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4365,9 +4097,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "where.ts",
         "en": "where.ts"
@@ -4383,9 +4113,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "5bbf809b-5c91-4d02-9677-ffec28704efe"
-          ]
+          "capsIptCapsValue": ["5bbf809b-5c91-4d02-9677-ffec28704efe"]
         }
       },
       "capsUseConections": "1"
@@ -4412,9 +4140,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4453,9 +4179,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "whereConds.ts",
         "en": "whereConds.ts"
@@ -4471,9 +4195,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "b66274a9-4778-45e9-8308-3e6476af7692"
-          ]
+          "capsIptCapsValue": ["b66274a9-4778-45e9-8308-3e6476af7692"]
         }
       },
       "capsUseConections": "1"
@@ -4500,9 +4222,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4541,9 +4261,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "funcGroup.ts",
         "en": "funcGroup.ts"
@@ -4559,9 +4277,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "06d60255-2477-4bd8-8910-d5bae8191384"
-          ]
+          "capsIptCapsValue": ["06d60255-2477-4bd8-8910-d5bae8191384"]
         }
       },
       "capsUseConections": "1"
@@ -4588,9 +4304,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4629,9 +4343,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "goTo.ts",
         "en": "goTo.ts"
@@ -4647,9 +4359,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "620dc8db-e986-49c6-acb6-babb3a486b28"
-          ]
+          "capsIptCapsValue": ["620dc8db-e986-49c6-acb6-babb3a486b28"]
         }
       },
       "capsUseConections": "1"
@@ -4676,9 +4386,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4717,9 +4425,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006000
-      ],
+      "capsUpdatedAt": [1724436006000],
       "capsUseLabel": {
         "pt-br": "increment.ts",
         "en": "increment.ts"
@@ -4735,9 +4441,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "d382c294-2348-4b55-a5c9-3fbac420f54c"
-          ]
+          "capsIptCapsValue": ["d382c294-2348-4b55-a5c9-3fbac420f54c"]
         }
       },
       "capsUseConections": "1"
@@ -4764,9 +4468,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4805,9 +4507,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -4823,9 +4523,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "1bc458ea-1acd-4f27-8afd-cc9700fef461"
-          ]
+          "capsIptCapsValue": ["1bc458ea-1acd-4f27-8afd-cc9700fef461"]
         }
       },
       "capsUseConections": "1"
@@ -4852,9 +4550,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4893,9 +4589,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "listFilter.ts",
         "en": "listFilter.ts"
@@ -4911,9 +4605,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a41af5c3-070f-4a27-9c90-365136b6ca0c"
-          ]
+          "capsIptCapsValue": ["a41af5c3-070f-4a27-9c90-365136b6ca0c"]
         }
       },
       "capsUseConections": "1"
@@ -4940,9 +4632,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -4981,9 +4671,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "loginGoogle.ts",
         "en": "loginGoogle.ts"
@@ -4999,9 +4687,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c65f02da-bc4a-4154-a783-db66023ae5cb"
-          ]
+          "capsIptCapsValue": ["c65f02da-bc4a-4154-a783-db66023ae5cb"]
         }
       },
       "capsUseConections": "1"
@@ -5028,9 +4714,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5069,9 +4753,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "setEditFields.ts",
         "en": "setEditFields.ts"
@@ -5087,9 +4769,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c9241c0e-cc6a-46ec-8a23-de26ad139110"
-          ]
+          "capsIptCapsValue": ["c9241c0e-cc6a-46ec-8a23-de26ad139110"]
         }
       },
       "capsUseConections": "1"
@@ -5116,9 +4796,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5157,9 +4835,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "setVar.ts",
         "en": "setVar.ts"
@@ -5175,9 +4851,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "f550c7f4-e8ec-42c1-b9b8-dc96a17ba9c0"
-          ]
+          "capsIptCapsValue": ["f550c7f4-e8ec-42c1-b9b8-dc96a17ba9c0"]
         }
       },
       "capsUseConections": "1"
@@ -5204,9 +4878,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5245,9 +4917,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006001
-      ],
+      "capsUpdatedAt": [1724436006001],
       "capsUseLabel": {
         "pt-br": "stringFunc.ts",
         "en": "stringFunc.ts"
@@ -5263,9 +4933,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "f3adb19b-fc4c-4a0a-baed-7a4e3871ed1e"
-          ]
+          "capsIptCapsValue": ["f3adb19b-fc4c-4a0a-baed-7a4e3871ed1e"]
         }
       },
       "capsUseConections": "1"
@@ -5292,9 +4960,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5333,9 +4999,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -5351,9 +5015,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "bb0a8165-f3e1-4a5c-9a07-12fe5001e65a"
-          ]
+          "capsIptCapsValue": ["bb0a8165-f3e1-4a5c-9a07-12fe5001e65a"]
         }
       },
       "capsUseConections": "1"
@@ -5380,9 +5042,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5421,9 +5081,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "jsvals",
         "en": "jsvals"
@@ -5439,9 +5097,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "38c9197c-7c97-4d4c-8d56-15a97d32bee1"
-          ]
+          "capsIptCapsValue": ["38c9197c-7c97-4d4c-8d56-15a97d32bee1"]
         }
       },
       "capsUseConections": "1"
@@ -5468,9 +5124,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -5486,9 +5140,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "23d5cd9e-8b9d-4cd4-97ba-5ea3708d9404"
-          ]
+          "capsIptCapsValue": ["23d5cd9e-8b9d-4cd4-97ba-5ea3708d9404"]
         }
       },
       "capsUseConections": "1"
@@ -5515,9 +5167,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5556,9 +5206,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "jsvals2",
         "en": "jsvals2"
@@ -5610,9 +5258,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "argReader.ts",
         "en": "argReader.ts"
@@ -5628,9 +5274,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "8ef3accc-0231-4f81-adcd-0c948a0d7db2"
-          ]
+          "capsIptCapsValue": ["8ef3accc-0231-4f81-adcd-0c948a0d7db2"]
         }
       },
       "capsUseConections": "1"
@@ -5657,9 +5301,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5698,9 +5340,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -5716,9 +5356,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "0a033cf2-8b18-4f41-85c6-1344863ad420"
-          ]
+          "capsIptCapsValue": ["0a033cf2-8b18-4f41-85c6-1344863ad420"]
         }
       },
       "capsUseConections": "1"
@@ -5745,9 +5383,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5786,9 +5422,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "joinStringValue.ts",
         "en": "joinStringValue.ts"
@@ -5804,9 +5438,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c8372825-205f-461f-b09a-e02cc55e7058"
-          ]
+          "capsIptCapsValue": ["c8372825-205f-461f-b09a-e02cc55e7058"]
         }
       },
       "capsUseConections": "1"
@@ -5833,9 +5465,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006002
-      ],
+      "capsUpdatedAt": [1724436006002],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5874,9 +5504,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "objectProperties.ts",
         "en": "objectProperties.ts"
@@ -5892,9 +5520,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a0582d44-0c6b-4904-b259-8730002cf614"
-          ]
+          "capsIptCapsValue": ["a0582d44-0c6b-4904-b259-8730002cf614"]
         }
       },
       "capsUseConections": "1"
@@ -5921,9 +5547,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -5962,9 +5586,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "propJsonStrignify.ts",
         "en": "propJsonStrignify.ts"
@@ -5980,9 +5602,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "1d0f0bf7-80ed-477b-b66b-eb996fdb02e8"
-          ]
+          "capsIptCapsValue": ["1d0f0bf7-80ed-477b-b66b-eb996fdb02e8"]
         }
       },
       "capsUseConections": "1"
@@ -6009,9 +5629,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6050,9 +5668,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "propertieValues.ts",
         "en": "propertieValues.ts"
@@ -6068,9 +5684,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "14e7c2ae-5b4a-4bd8-b8fb-6dac1b555406"
-          ]
+          "capsIptCapsValue": ["14e7c2ae-5b4a-4bd8-b8fb-6dac1b555406"]
         }
       },
       "capsUseConections": "1"
@@ -6097,9 +5711,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6138,9 +5750,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "varReader.ts",
         "en": "varReader.ts"
@@ -6156,9 +5766,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "6dbd234f-13a7-4900-b70f-220376b6c7e7"
-          ]
+          "capsIptCapsValue": ["6dbd234f-13a7-4900-b70f-220376b6c7e7"]
         }
       },
       "capsUseConections": "1"
@@ -6185,9 +5793,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6226,9 +5832,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "varToToggle.ts",
         "en": "varToToggle.ts"
@@ -6244,9 +5848,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "33190e59-2e64-43e7-b9c3-8db4c33d98c5"
-          ]
+          "capsIptCapsValue": ["33190e59-2e64-43e7-b9c3-8db4c33d98c5"]
         }
       },
       "capsUseConections": "1"
@@ -6273,9 +5875,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6314,9 +5914,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "project",
         "en": "project"
@@ -6372,9 +5970,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006003
-      ],
+      "capsUpdatedAt": [1724436006003],
       "capsUseLabel": {
         "pt-br": "Project.tsx",
         "en": "Project.tsx"
@@ -6390,9 +5986,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7afb4a91-2a5b-42ff-aebd-05b195034998"
-          ]
+          "capsIptCapsValue": ["7afb4a91-2a5b-42ff-aebd-05b195034998"]
         }
       },
       "capsUseConections": "1"
@@ -6419,9 +6013,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6460,9 +6052,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "argSel.tsx",
         "en": "argSel.tsx"
@@ -6478,9 +6068,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "cb895cdd-9dd3-42c2-ac37-3f19a2014473"
-          ]
+          "capsIptCapsValue": ["cb895cdd-9dd3-42c2-ac37-3f19a2014473"]
         }
       },
       "capsUseConections": "1"
@@ -6507,9 +6095,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6548,9 +6134,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "getCtData.tsx",
         "en": "getCtData.tsx"
@@ -6566,9 +6150,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "87a7e3d7-1709-4110-ae2a-b7aef44d83ad"
-          ]
+          "capsIptCapsValue": ["87a7e3d7-1709-4110-ae2a-b7aef44d83ad"]
         }
       },
       "capsUseConections": "1"
@@ -6595,9 +6177,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6636,9 +6216,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "getStlValues.tsx",
         "en": "getStlValues.tsx"
@@ -6654,9 +6232,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c4b58d84-5a43-4729-8671-c29035495a2f"
-          ]
+          "capsIptCapsValue": ["c4b58d84-5a43-4729-8671-c29035495a2f"]
         }
       },
       "capsUseConections": "1"
@@ -6683,9 +6259,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6724,9 +6298,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "getVarValue.tsx",
         "en": "getVarValue.tsx"
@@ -6742,9 +6314,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "6d67a745-dea8-4025-91e9-77814c615bef"
-          ]
+          "capsIptCapsValue": ["6d67a745-dea8-4025-91e9-77814c615bef"]
         }
       },
       "capsUseConections": "1"
@@ -6771,9 +6341,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6812,9 +6380,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "goTo.tsx",
         "en": "goTo.tsx"
@@ -6830,9 +6396,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "ec7d4ff5-c36d-4393-a905-5f85b2ec0246"
-          ]
+          "capsIptCapsValue": ["ec7d4ff5-c36d-4393-a905-5f85b2ec0246"]
         }
       },
       "capsUseConections": "1"
@@ -6859,9 +6423,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6900,9 +6462,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -6918,9 +6478,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "3e3211e5-10e7-4d23-98eb-b4585b3814e0"
-          ]
+          "capsIptCapsValue": ["3e3211e5-10e7-4d23-98eb-b4585b3814e0"]
         }
       },
       "capsUseConections": "1"
@@ -6947,9 +6505,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -6988,9 +6544,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "mapElements.tsx",
         "en": "mapElements.tsx"
@@ -7006,9 +6560,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7451f262-5410-434d-a1f8-08cc242aa33e"
-          ]
+          "capsIptCapsValue": ["7451f262-5410-434d-a1f8-08cc242aa33e"]
         }
       },
       "capsUseConections": "1"
@@ -7035,9 +6587,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006004
-      ],
+      "capsUpdatedAt": [1724436006004],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7076,9 +6626,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "pathSel.ts",
         "en": "pathSel.ts"
@@ -7094,9 +6642,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "63ce61e7-4c7f-4499-a7ae-e4c4b4ba5d6a"
-          ]
+          "capsIptCapsValue": ["63ce61e7-4c7f-4499-a7ae-e4c4b4ba5d6a"]
         }
       },
       "capsUseConections": "1"
@@ -7123,9 +6669,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7164,9 +6708,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "refCtData.json",
         "en": "refCtData.json"
@@ -7182,9 +6724,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "f9dfe28d-4541-473a-b54d-4450ec77c61e"
-          ]
+          "capsIptCapsValue": ["f9dfe28d-4541-473a-b54d-4450ec77c61e"]
         }
       },
       "capsUseConections": "1"
@@ -7211,9 +6751,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7252,9 +6790,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "setArgsVars.tsx",
         "en": "setArgsVars.tsx"
@@ -7270,9 +6806,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a2638660-aed1-425c-991a-cfb596da9f65"
-          ]
+          "capsIptCapsValue": ["a2638660-aed1-425c-991a-cfb596da9f65"]
         }
       },
       "capsUseConections": "1"
@@ -7299,9 +6833,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7340,9 +6872,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "setData.tsx",
         "en": "setData.tsx"
@@ -7358,9 +6888,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7b95390a-2329-4c78-8926-b6d11c95161a"
-          ]
+          "capsIptCapsValue": ["7b95390a-2329-4c78-8926-b6d11c95161a"]
         }
       },
       "capsUseConections": "1"
@@ -7387,9 +6915,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7428,9 +6954,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "props",
         "en": "props"
@@ -7484,9 +7008,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "button",
         "en": "button"
@@ -7502,9 +7024,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "61d3bb38-fffc-4b4e-a3b8-be6d4acc2ea5"
-          ]
+          "capsIptCapsValue": ["61d3bb38-fffc-4b4e-a3b8-be6d4acc2ea5"]
         }
       },
       "capsUseConections": "1"
@@ -7531,9 +7051,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -7549,9 +7067,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "789a142c-e226-48cb-bb54-2c5a34a7d745"
-          ]
+          "capsIptCapsValue": ["789a142c-e226-48cb-bb54-2c5a34a7d745"]
         }
       },
       "capsUseConections": "1"
@@ -7578,9 +7094,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006005
-      ],
+      "capsUpdatedAt": [1724436006005],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7619,9 +7133,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "image",
         "en": "image"
@@ -7637,9 +7149,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "19d2b91c-7155-4262-bbae-9e10e2d14151"
-          ]
+          "capsIptCapsValue": ["19d2b91c-7155-4262-bbae-9e10e2d14151"]
         }
       },
       "capsUseConections": "1"
@@ -7666,9 +7176,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -7684,9 +7192,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "bba2819f-e878-4c0f-a978-dd0b48d4e878"
-          ]
+          "capsIptCapsValue": ["bba2819f-e878-4c0f-a978-dd0b48d4e878"]
         }
       },
       "capsUseConections": "1"
@@ -7713,9 +7219,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7754,9 +7258,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -7772,9 +7274,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "ab6cc355-d119-44cf-8460-887603d632a1"
-          ]
+          "capsIptCapsValue": ["ab6cc355-d119-44cf-8460-887603d632a1"]
         }
       },
       "capsUseConections": "1"
@@ -7801,9 +7301,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7842,9 +7340,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "inputText",
         "en": "inputText"
@@ -7860,9 +7356,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "4e0bb059-d1c8-4adf-a792-8f9c69ca6e8c"
-          ]
+          "capsIptCapsValue": ["4e0bb059-d1c8-4adf-a792-8f9c69ca6e8c"]
         }
       },
       "capsUseConections": "1"
@@ -7889,9 +7383,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -7907,9 +7399,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "4b300b97-2d61-4520-b898-2396c5227b41"
-          ]
+          "capsIptCapsValue": ["4b300b97-2d61-4520-b898-2396c5227b41"]
         }
       },
       "capsUseConections": "1"
@@ -7936,9 +7426,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -7977,9 +7465,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006006
-      ],
+      "capsUpdatedAt": [1724436006006],
       "capsUseLabel": {
         "pt-br": "list",
         "en": "list"
@@ -7995,9 +7481,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "320721c1-b3ef-4067-837b-c27d02e6722a"
-          ]
+          "capsIptCapsValue": ["320721c1-b3ef-4067-837b-c27d02e6722a"]
         }
       },
       "capsUseConections": "1"
@@ -8024,9 +7508,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -8042,9 +7524,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "74bc0504-5e85-419b-b2eb-de2982c1c4ad"
-          ]
+          "capsIptCapsValue": ["74bc0504-5e85-419b-b2eb-de2982c1c4ad"]
         }
       },
       "capsUseConections": "1"
@@ -8071,9 +7551,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -8112,9 +7590,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "loader",
         "en": "loader"
@@ -8130,9 +7606,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "cc6d6011-b820-45e9-a17d-84ae4dbcecc7"
-          ]
+          "capsIptCapsValue": ["cc6d6011-b820-45e9-a17d-84ae4dbcecc7"]
         }
       },
       "capsUseConections": "1"
@@ -8159,9 +7633,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -8177,9 +7649,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "2adfd748-8f48-48ff-9c3d-4d87be927785"
-          ]
+          "capsIptCapsValue": ["2adfd748-8f48-48ff-9c3d-4d87be927785"]
         }
       },
       "capsUseConections": "1"
@@ -8206,9 +7676,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -8247,9 +7715,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "ref.ts",
         "en": "ref.ts"
@@ -8265,9 +7731,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "5683c352-157b-482f-9b29-877d2a529812"
-          ]
+          "capsIptCapsValue": ["5683c352-157b-482f-9b29-877d2a529812"]
         }
       },
       "capsUseConections": "1"
@@ -8294,9 +7758,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -8335,9 +7797,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "scrollview",
         "en": "scrollview"
@@ -8353,9 +7813,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "b0d11a9c-537a-4841-a747-494158163992"
-          ]
+          "capsIptCapsValue": ["b0d11a9c-537a-4841-a747-494158163992"]
         }
       },
       "capsUseConections": "1"
@@ -8382,9 +7840,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -8400,9 +7856,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "b66a042a-78d8-4ccd-bc0b-f63892e169e1"
-          ]
+          "capsIptCapsValue": ["b66a042a-78d8-4ccd-bc0b-f63892e169e1"]
         }
       },
       "capsUseConections": "1"
@@ -8429,9 +7883,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -8470,9 +7922,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "text",
         "en": "text"
@@ -8488,9 +7938,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "0e15bfda-bca3-42a1-92b0-da73dda4adb5"
-          ]
+          "capsIptCapsValue": ["0e15bfda-bca3-42a1-92b0-da73dda4adb5"]
         }
       },
       "capsUseConections": "1"
@@ -8517,9 +7965,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006007
-      ],
+      "capsUpdatedAt": [1724436006007],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -8535,9 +7981,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e8e8833b-263a-48ec-95cb-7933f131aa9b"
-          ]
+          "capsIptCapsValue": ["e8e8833b-263a-48ec-95cb-7933f131aa9b"]
         }
       },
       "capsUseConections": "1"
@@ -8564,9 +8008,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -8605,9 +8047,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "view",
         "en": "view"
@@ -8623,9 +8063,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "2481ac07-6cac-4a56-a70f-d7bbcd4f75bc"
-          ]
+          "capsIptCapsValue": ["2481ac07-6cac-4a56-a70f-d7bbcd4f75bc"]
         }
       },
       "capsUseConections": "1"
@@ -8652,9 +8090,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -8670,9 +8106,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "ad097c13-68b7-42eb-9fa9-91bba123d44d"
-          ]
+          "capsIptCapsValue": ["ad097c13-68b7-42eb-9fa9-91bba123d44d"]
         }
       },
       "capsUseConections": "1"
@@ -8699,9 +8133,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -8740,9 +8172,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "stls",
         "en": "stls"
@@ -8793,9 +8223,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "image",
         "en": "image"
@@ -8811,9 +8239,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "8d1eeb26-8666-482f-81df-5978ea329946"
-          ]
+          "capsIptCapsValue": ["8d1eeb26-8666-482f-81df-5978ea329946"]
         }
       },
       "capsUseConections": "1"
@@ -8840,9 +8266,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -8858,9 +8282,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "dce8b764-6112-4aed-95fc-5284f5620234"
-          ]
+          "capsIptCapsValue": ["dce8b764-6112-4aed-95fc-5284f5620234"]
         }
       },
       "capsUseConections": "1"
@@ -8887,9 +8309,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -8928,9 +8348,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -8946,9 +8364,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "92a0951d-b136-4569-857a-48e74cbf2ff7"
-          ]
+          "capsIptCapsValue": ["92a0951d-b136-4569-857a-48e74cbf2ff7"]
         }
       },
       "capsUseConections": "1"
@@ -8975,9 +8391,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9016,9 +8430,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "layout",
         "en": "layout"
@@ -9034,9 +8446,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "d7e4ce23-2e84-4e71-b6fc-7d46b1323546"
-          ]
+          "capsIptCapsValue": ["d7e4ce23-2e84-4e71-b6fc-7d46b1323546"]
         }
       },
       "capsUseConections": "1"
@@ -9063,9 +8473,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -9081,9 +8489,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "efa6fd8e-4ed6-42c8-b040-fc22728ad9ae"
-          ]
+          "capsIptCapsValue": ["efa6fd8e-4ed6-42c8-b040-fc22728ad9ae"]
         }
       },
       "capsUseConections": "1"
@@ -9110,9 +8516,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9151,9 +8555,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006008
-      ],
+      "capsUpdatedAt": [1724436006008],
       "capsUseLabel": {
         "pt-br": "shadow",
         "en": "shadow"
@@ -9169,9 +8571,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "a48f0c42-9a29-423d-bfe6-7577f87170ec"
-          ]
+          "capsIptCapsValue": ["a48f0c42-9a29-423d-bfe6-7577f87170ec"]
         }
       },
       "capsUseConections": "1"
@@ -9198,9 +8598,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -9216,9 +8614,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "0c9a3e4b-36da-4f7d-b541-ad374fa9f703"
-          ]
+          "capsIptCapsValue": ["0c9a3e4b-36da-4f7d-b541-ad374fa9f703"]
         }
       },
       "capsUseConections": "1"
@@ -9245,9 +8641,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9286,9 +8680,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "stlGroup",
         "en": "stlGroup"
@@ -9304,9 +8696,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "287c9fa2-fc10-4131-bb6b-c2892ee12313"
-          ]
+          "capsIptCapsValue": ["287c9fa2-fc10-4131-bb6b-c2892ee12313"]
         }
       },
       "capsUseConections": "1"
@@ -9333,9 +8723,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -9351,9 +8739,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "11d4e4a3-a18e-4a20-bb96-1c100014261a"
-          ]
+          "capsIptCapsValue": ["11d4e4a3-a18e-4a20-bb96-1c100014261a"]
         }
       },
       "capsUseConections": "1"
@@ -9380,9 +8766,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9421,9 +8805,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "text",
         "en": "text"
@@ -9439,9 +8821,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "80436f47-e49d-4a8e-9a03-2b4602b39b9e"
-          ]
+          "capsIptCapsValue": ["80436f47-e49d-4a8e-9a03-2b4602b39b9e"]
         }
       },
       "capsUseConections": "1"
@@ -9468,9 +8848,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -9486,9 +8864,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "4beb45c1-ab9c-418a-93b3-037028d94b2d"
-          ]
+          "capsIptCapsValue": ["4beb45c1-ab9c-418a-93b3-037028d94b2d"]
         }
       },
       "capsUseConections": "1"
@@ -9515,9 +8891,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9556,9 +8930,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "view",
         "en": "view"
@@ -9574,9 +8946,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "e402633e-144e-4971-9d07-3163b079c00d"
-          ]
+          "capsIptCapsValue": ["e402633e-144e-4971-9d07-3163b079c00d"]
         }
       },
       "capsUseConections": "1"
@@ -9603,9 +8973,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -9621,9 +8989,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "9b980d3f-c617-4859-9227-ab7f39693200"
-          ]
+          "capsIptCapsValue": ["9b980d3f-c617-4859-9227-ab7f39693200"]
         }
       },
       "capsUseConections": "1"
@@ -9650,9 +9016,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9691,9 +9055,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006009
-      ],
+      "capsUpdatedAt": [1724436006009],
       "capsUseLabel": {
         "pt-br": "system",
         "en": "system"
@@ -9740,9 +9102,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "dirSeed.ts",
         "en": "dirSeed.ts"
@@ -9758,9 +9118,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "9711444c-6192-49d0-9867-5e271783f898"
-          ]
+          "capsIptCapsValue": ["9711444c-6192-49d0-9867-5e271783f898"]
         }
       },
       "capsUseConections": "1"
@@ -9787,9 +9145,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9828,9 +9184,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "fileSeed.ts",
         "en": "fileSeed.ts"
@@ -9846,9 +9200,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "71e7bb5f-7389-4f2f-9107-2c16ef747201"
-          ]
+          "capsIptCapsValue": ["71e7bb5f-7389-4f2f-9107-2c16ef747201"]
         }
       },
       "capsUseConections": "1"
@@ -9875,9 +9227,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -9916,9 +9266,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -9934,9 +9282,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "1b9969a2-dabd-4619-aa00-cbb62e832998"
-          ]
+          "capsIptCapsValue": ["1b9969a2-dabd-4619-aa00-cbb62e832998"]
         }
       },
       "capsUseConections": "1"
@@ -9963,9 +9309,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -10004,9 +9348,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "customs",
         "en": "customs"
@@ -10065,9 +9407,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "BtnUpdateAmount",
         "en": "BtnUpdateAmount"
@@ -10114,9 +9454,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006010
-      ],
+      "capsUpdatedAt": [1724436006010],
       "capsUseLabel": {
         "pt-br": "BtnCounter.tsx",
         "en": "BtnCounter.tsx"
@@ -10159,9 +9497,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -10177,9 +9513,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e2859797-968f-442b-bc1b-ec7e0058a7cf"
-          ]
+          "capsIptCapsValue": ["e2859797-968f-442b-bc1b-ec7e0058a7cf"]
         }
       },
       "capsUseConections": "1"
@@ -10206,9 +9540,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -10247,9 +9579,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "styles.ts",
         "en": "styles.ts"
@@ -10265,9 +9595,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a9197415-b810-4e9a-87bf-3214be8ab7bd"
-          ]
+          "capsIptCapsValue": ["a9197415-b810-4e9a-87bf-3214be8ab7bd"]
         }
       },
       "capsUseConections": "1"
@@ -10294,9 +9622,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -10335,9 +9661,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "CountTimer",
         "en": "CountTimer"
@@ -10353,9 +9677,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "e220b9d1-dc6a-4144-bf86-5004d121f307"
-          ]
+          "capsIptCapsValue": ["e220b9d1-dc6a-4144-bf86-5004d121f307"]
         }
       },
       "capsUseConections": "1"
@@ -10382,9 +9704,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -10400,9 +9720,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c9bdb244-934d-471f-a226-19a1af793046"
-          ]
+          "capsIptCapsValue": ["c9bdb244-934d-471f-a226-19a1af793046"]
         }
       },
       "capsUseConections": "1"
@@ -10429,9 +9747,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -10470,9 +9786,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "FilePicker",
         "en": "FilePicker"
@@ -10488,9 +9802,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "cf26aee9-39e2-4bbc-bd0b-e678227c6552"
-          ]
+          "capsIptCapsValue": ["cf26aee9-39e2-4bbc-bd0b-e678227c6552"]
         }
       },
       "capsUseConections": "1"
@@ -10517,9 +9829,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -10535,9 +9845,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "bb49063e-9a87-4a4a-a6a0-02b4a3b28892"
-          ]
+          "capsIptCapsValue": ["bb49063e-9a87-4a4a-a6a0-02b4a3b28892"]
         }
       },
       "capsUseConections": "1"
@@ -10564,9 +9872,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006011
-      ],
+      "capsUpdatedAt": [1724436006011],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -10605,9 +9911,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006012
-      ],
+      "capsUpdatedAt": [1724436006012],
       "capsUseLabel": {
         "pt-br": "GetUserLocation",
         "en": "GetUserLocation"
@@ -10623,9 +9927,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "1fbf0556-e465-462b-b7c9-b742ab6ec13a"
-          ]
+          "capsIptCapsValue": ["1fbf0556-e465-462b-b7c9-b742ab6ec13a"]
         }
       },
       "capsUseConections": "1"
@@ -10652,9 +9954,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006012
-      ],
+      "capsUpdatedAt": [1724436006012],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -10670,9 +9970,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c918c994-a083-4051-9d32-9d3e2985622b"
-          ]
+          "capsIptCapsValue": ["c918c994-a083-4051-9d32-9d3e2985622b"]
         }
       },
       "capsUseConections": "1"
@@ -10699,9 +9997,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006012
-      ],
+      "capsUpdatedAt": [1724436006012],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -10740,9 +10036,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006012
-      ],
+      "capsUpdatedAt": [1724436006012],
       "capsUseLabel": {
         "pt-br": "IptPicker",
         "en": "IptPicker"
@@ -10758,9 +10052,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "5e84f856-b268-47ee-b22c-e950e5c2c5ac"
-          ]
+          "capsIptCapsValue": ["5e84f856-b268-47ee-b22c-e950e5c2c5ac"]
         }
       },
       "capsUseConections": "1"
@@ -10787,9 +10079,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -10805,9 +10095,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "da528125-df75-40a8-ad4c-ab6e8e28d137"
-          ]
+          "capsIptCapsValue": ["da528125-df75-40a8-ad4c-ab6e8e28d137"]
         }
       },
       "capsUseConections": "1"
@@ -10834,9 +10122,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -10875,9 +10161,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "LoginWithGoogle",
         "en": "LoginWithGoogle"
@@ -10923,9 +10207,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "actions",
         "en": "actions"
@@ -10975,9 +10257,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "addNewUser.ts",
         "en": "addNewUser.ts"
@@ -10993,9 +10273,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "00c8dcd9-5ea8-41f5-9030-3ef1a0c927de"
-          ]
+          "capsIptCapsValue": ["00c8dcd9-5ea8-41f5-9030-3ef1a0c927de"]
         }
       },
       "capsUseConections": "1"
@@ -11022,9 +10300,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11063,9 +10339,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "generateUniqueId.ts",
         "en": "generateUniqueId.ts"
@@ -11081,9 +10355,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "1ca7582a-d147-4e49-9d7a-5deb34fc0b8f"
-          ]
+          "capsIptCapsValue": ["1ca7582a-d147-4e49-9d7a-5deb34fc0b8f"]
         }
       },
       "capsUseConections": "1"
@@ -11110,9 +10382,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11151,9 +10421,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006013
-      ],
+      "capsUpdatedAt": [1724436006013],
       "capsUseLabel": {
         "pt-br": "getDbInfo.ts",
         "en": "getDbInfo.ts"
@@ -11169,9 +10437,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "0c0f07ff-4df4-40bb-afcc-787adc0f5cfb"
-          ]
+          "capsIptCapsValue": ["0c0f07ff-4df4-40bb-afcc-787adc0f5cfb"]
         }
       },
       "capsUseConections": "1"
@@ -11198,9 +10464,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11239,9 +10503,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "getUserData.ts",
         "en": "getUserData.ts"
@@ -11257,9 +10519,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "86610e3b-24c2-47fd-a725-e0cfab425342"
-          ]
+          "capsIptCapsValue": ["86610e3b-24c2-47fd-a725-e0cfab425342"]
         }
       },
       "capsUseConections": "1"
@@ -11286,9 +10546,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11327,9 +10585,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "updateUser.ts",
         "en": "updateUser.ts"
@@ -11345,9 +10601,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "bf84c999-8eb5-4a16-a28f-c5782022f1af"
-          ]
+          "capsIptCapsValue": ["bf84c999-8eb5-4a16-a28f-c5782022f1af"]
         }
       },
       "capsUseConections": "1"
@@ -11374,9 +10628,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11415,9 +10667,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "waitForUserData.ts",
         "en": "waitForUserData.ts"
@@ -11433,9 +10683,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "45e15a0a-d4a1-4bc0-9b85-941755cb85f5"
-          ]
+          "capsIptCapsValue": ["45e15a0a-d4a1-4bc0-9b85-941755cb85f5"]
         }
       },
       "capsUseConections": "1"
@@ -11462,9 +10710,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11503,9 +10749,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -11521,9 +10765,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "de19a3ac-ae79-4841-a264-a79cad2e19c6"
-          ]
+          "capsIptCapsValue": ["de19a3ac-ae79-4841-a264-a79cad2e19c6"]
         }
       },
       "capsUseConections": "1"
@@ -11550,9 +10792,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11591,9 +10831,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006014
-      ],
+      "capsUpdatedAt": [1724436006014],
       "capsUseLabel": {
         "pt-br": "MapPlaces",
         "en": "MapPlaces"
@@ -11642,9 +10880,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "CustomMarkers.tsx",
         "en": "CustomMarkers.tsx"
@@ -11660,9 +10896,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "3f2e15f7-b313-4cf9-9318-e7f194c89b59"
-          ]
+          "capsIptCapsValue": ["3f2e15f7-b313-4cf9-9318-e7f194c89b59"]
         }
       },
       "capsUseConections": "1"
@@ -11689,9 +10923,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11730,9 +10962,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "WebMap.tsx",
         "en": "WebMap.tsx"
@@ -11748,9 +10978,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "0e5ed3f1-1b58-4f32-a6f6-31b6636f7708"
-          ]
+          "capsIptCapsValue": ["0e5ed3f1-1b58-4f32-a6f6-31b6636f7708"]
         }
       },
       "capsUseConections": "1"
@@ -11777,9 +11005,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11818,9 +11044,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "importRender.tsx",
         "en": "importRender.tsx"
@@ -11836,9 +11060,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "3830b04e-5ae9-435a-84eb-1dc05385ca0b"
-          ]
+          "capsIptCapsValue": ["3830b04e-5ae9-435a-84eb-1dc05385ca0b"]
         }
       },
       "capsUseConections": "1"
@@ -11865,9 +11087,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11906,9 +11126,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -11924,9 +11142,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "baa45587-f14b-4266-80b1-ed0d3c97de1b"
-          ]
+          "capsIptCapsValue": ["baa45587-f14b-4266-80b1-ed0d3c97de1b"]
         }
       },
       "capsUseConections": "1"
@@ -11953,9 +11169,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -11994,9 +11208,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "regionFrom.tsx",
         "en": "regionFrom.tsx"
@@ -12012,9 +11224,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "977179c7-5b08-47db-b313-ce4dab94b589"
-          ]
+          "capsIptCapsValue": ["977179c7-5b08-47db-b313-ce4dab94b589"]
         }
       },
       "capsUseConections": "1"
@@ -12041,9 +11251,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12082,9 +11290,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006015
-      ],
+      "capsUpdatedAt": [1724436006015],
       "capsUseLabel": {
         "pt-br": "Shadows.ts",
         "en": "Shadows.ts"
@@ -12100,9 +11306,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "07ed4948-c1c0-49ad-b656-204e3063c9aa"
-          ]
+          "capsIptCapsValue": ["07ed4948-c1c0-49ad-b656-204e3063c9aa"]
         }
       },
       "capsUseConections": "1"
@@ -12129,9 +11333,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12170,9 +11372,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "Watcher",
         "en": "Watcher"
@@ -12188,9 +11388,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "3690191d-7ca2-4009-b6f2-5d8591722dcf"
-          ]
+          "capsIptCapsValue": ["3690191d-7ca2-4009-b6f2-5d8591722dcf"]
         }
       },
       "capsUseConections": "1"
@@ -12217,9 +11415,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -12235,9 +11431,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "6366d9a8-f74b-4305-a2c6-6b63ec4dc9da"
-          ]
+          "capsIptCapsValue": ["6366d9a8-f74b-4305-a2c6-6b63ec4dc9da"]
         }
       },
       "capsUseConections": "1"
@@ -12264,9 +11458,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12305,9 +11497,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "checkCurrSecondsValue",
         "en": "checkCurrSecondsValue"
@@ -12323,9 +11513,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "688f3159-a98c-4d3c-b3ce-21e92ea783c8"
-          ]
+          "capsIptCapsValue": ["688f3159-a98c-4d3c-b3ce-21e92ea783c8"]
         }
       },
       "capsUseConections": "1"
@@ -12352,9 +11540,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -12370,9 +11556,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "d9cdf2e5-bf58-48ae-94ad-949207afccc3"
-          ]
+          "capsIptCapsValue": ["d9cdf2e5-bf58-48ae-94ad-949207afccc3"]
         }
       },
       "capsUseConections": "1"
@@ -12399,9 +11583,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12440,9 +11622,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006016
-      ],
+      "capsUpdatedAt": [1724436006016],
       "capsUseLabel": {
         "pt-br": "checkInitData.ts",
         "en": "checkInitData.ts"
@@ -12458,9 +11638,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "6e9585f8-fb8e-449a-833d-ad5a90b4710e"
-          ]
+          "capsIptCapsValue": ["6e9585f8-fb8e-449a-833d-ad5a90b4710e"]
         }
       },
       "capsUseConections": "1"
@@ -12487,9 +11665,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12528,9 +11704,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "currencyString",
         "en": "currencyString"
@@ -12546,9 +11720,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "17ba94af-3be6-4fdc-b951-5825f105e1b6"
-          ]
+          "capsIptCapsValue": ["17ba94af-3be6-4fdc-b951-5825f105e1b6"]
         }
       },
       "capsUseConections": "1"
@@ -12575,9 +11747,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -12593,9 +11763,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a830f4a9-8fb7-4070-b0e6-bf42fb3b4e7a"
-          ]
+          "capsIptCapsValue": ["a830f4a9-8fb7-4070-b0e6-bf42fb3b4e7a"]
         }
       },
       "capsUseConections": "1"
@@ -12622,9 +11790,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12663,9 +11829,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -12681,9 +11845,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "242d4a22-414f-43ae-9f08-862b4588dd90"
-          ]
+          "capsIptCapsValue": ["242d4a22-414f-43ae-9f08-862b4588dd90"]
         }
       },
       "capsUseConections": "1"
@@ -12710,9 +11872,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12751,9 +11911,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "pagarme",
         "en": "pagarme"
@@ -12807,9 +11965,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006017
-      ],
+      "capsUpdatedAt": [1724436006017],
       "capsUseLabel": {
         "pt-br": "asyncFn",
         "en": "asyncFn"
@@ -12825,9 +11981,7 @@
         },
         "sss_dirSystem-1": {
           "capsIptCodeID": "sss_dirSystem-1",
-          "capsIptCapsValue": [
-            "67bbbbec-90a0-4d9c-92ff-8288ca892629"
-          ]
+          "capsIptCapsValue": ["67bbbbec-90a0-4d9c-92ff-8288ca892629"]
         }
       },
       "capsUseConections": "1"
@@ -12854,9 +12008,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -12872,9 +12024,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "922052c8-66b2-456d-8638-5f0acc167f3d"
-          ]
+          "capsIptCapsValue": ["922052c8-66b2-456d-8638-5f0acc167f3d"]
         }
       },
       "capsUseConections": "1"
@@ -12901,9 +12051,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -12942,9 +12090,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "createCustomer.ts",
         "en": "createCustomer.ts"
@@ -12960,9 +12106,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "d6d5a710-ddd8-4390-b3ea-1d6b452e4ee1"
-          ]
+          "capsIptCapsValue": ["d6d5a710-ddd8-4390-b3ea-1d6b452e4ee1"]
         }
       },
       "capsUseConections": "1"
@@ -12989,9 +12133,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13030,9 +12172,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "createOrder.ts",
         "en": "createOrder.ts"
@@ -13048,9 +12188,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "33bcfa32-680f-4a0b-905f-92539f60e04b"
-          ]
+          "capsIptCapsValue": ["33bcfa32-680f-4a0b-905f-92539f60e04b"]
         }
       },
       "capsUseConections": "1"
@@ -13077,9 +12215,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13118,9 +12254,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "createOrderPIX.ts",
         "en": "createOrderPIX.ts"
@@ -13136,9 +12270,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "946b126e-3436-469c-ba8c-f653145a815b"
-          ]
+          "capsIptCapsValue": ["946b126e-3436-469c-ba8c-f653145a815b"]
         }
       },
       "capsUseConections": "1"
@@ -13165,9 +12297,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13206,9 +12336,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "getCardHash.ts",
         "en": "getCardHash.ts"
@@ -13224,9 +12352,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e720bd23-b6ca-4334-b6ca-460d542d6f03"
-          ]
+          "capsIptCapsValue": ["e720bd23-b6ca-4334-b6ca-460d542d6f03"]
         }
       },
       "capsUseConections": "1"
@@ -13253,9 +12379,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13294,9 +12418,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006018
-      ],
+      "capsUpdatedAt": [1724436006018],
       "capsUseLabel": {
         "pt-br": "helpers",
         "en": "helpers"
@@ -13348,9 +12470,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "getAddress.ts",
         "en": "getAddress.ts"
@@ -13366,9 +12486,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "c6b3c9f3-169b-4c2a-9006-6b57c4953d6f"
-          ]
+          "capsIptCapsValue": ["c6b3c9f3-169b-4c2a-9006-6b57c4953d6f"]
         }
       },
       "capsUseConections": "1"
@@ -13395,9 +12513,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13436,9 +12552,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "getOrderData.ts",
         "en": "getOrderData.ts"
@@ -13454,9 +12568,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e60fa4c0-70ed-471d-b791-372f477c3cf5"
-          ]
+          "capsIptCapsValue": ["e60fa4c0-70ed-471d-b791-372f477c3cf5"]
         }
       },
       "capsUseConections": "1"
@@ -13483,9 +12595,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13524,9 +12634,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "paths.ts",
         "en": "paths.ts"
@@ -13542,9 +12650,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7305dcd3-3ef8-4eee-aea6-14a2309d6ae6"
-          ]
+          "capsIptCapsValue": ["7305dcd3-3ef8-4eee-aea6-14a2309d6ae6"]
         }
       },
       "capsUseConections": "1"
@@ -13571,9 +12677,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13612,9 +12716,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "response.json",
         "en": "response.json"
@@ -13630,9 +12732,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "f8a840c3-3572-405c-8d9d-aa5ecba5b755"
-          ]
+          "capsIptCapsValue": ["f8a840c3-3572-405c-8d9d-aa5ecba5b755"]
         }
       },
       "capsUseConections": "1"
@@ -13659,9 +12759,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13700,9 +12798,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "setCtDataError.ts",
         "en": "setCtDataError.ts"
@@ -13718,9 +12814,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "8205b80c-df80-4ff9-8cdb-48b9a9cd05de"
-          ]
+          "capsIptCapsValue": ["8205b80c-df80-4ff9-8cdb-48b9a9cd05de"]
         }
       },
       "capsUseConections": "1"
@@ -13747,9 +12841,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13788,9 +12880,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006019
-      ],
+      "capsUpdatedAt": [1724436006019],
       "capsUseLabel": {
         "pt-br": "simplificado.json",
         "en": "simplificado.json"
@@ -13806,9 +12896,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "1616afe1-08b5-485a-964d-b6d7ba39e7b7"
-          ]
+          "capsIptCapsValue": ["1616afe1-08b5-485a-964d-b6d7ba39e7b7"]
         }
       },
       "capsUseConections": "1"
@@ -13835,9 +12923,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006020
-      ],
+      "capsUpdatedAt": [1724436006020],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13876,9 +12962,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006020
-      ],
+      "capsUpdatedAt": [1724436006020],
       "capsUseLabel": {
         "pt-br": "templateOrder.ts",
         "en": "templateOrder.ts"
@@ -13894,9 +12978,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "e9810e03-29f7-4b19-81e7-53df854d3e82"
-          ]
+          "capsIptCapsValue": ["e9810e03-29f7-4b19-81e7-53df854d3e82"]
         }
       },
       "capsUseConections": "1"
@@ -13923,9 +13005,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006020
-      ],
+      "capsUpdatedAt": [1724436006020],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -13964,9 +13044,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006020
-      ],
+      "capsUpdatedAt": [1724436006020],
       "capsUseLabel": {
         "pt-br": "templateOrder.ts.ts",
         "en": "templateOrder.ts.ts"
@@ -13982,9 +13060,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "d98aa96c-da8c-4d31-90f3-9443193c3d87"
-          ]
+          "capsIptCapsValue": ["d98aa96c-da8c-4d31-90f3-9443193c3d87"]
         }
       },
       "capsUseConections": "1"
@@ -14011,9 +13087,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14052,9 +13126,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -14070,9 +13142,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "124c6846-13f6-43ae-aaff-f22cdd15ed7e"
-          ]
+          "capsIptCapsValue": ["124c6846-13f6-43ae-aaff-f22cdd15ed7e"]
         }
       },
       "capsUseConections": "1"
@@ -14099,9 +13169,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14140,9 +13208,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "listOrders.ts",
         "en": "listOrders.ts"
@@ -14158,9 +13224,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "ffbce5d8-39d6-47da-bed8-4af373e8b925"
-          ]
+          "capsIptCapsValue": ["ffbce5d8-39d6-47da-bed8-4af373e8b925"]
         }
       },
       "capsUseConections": "1"
@@ -14187,9 +13251,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14228,9 +13290,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "types",
         "en": "types"
@@ -14277,9 +13337,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "createOrder.ts",
         "en": "createOrder.ts"
@@ -14295,9 +13353,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "3b6b16c2-6f98-4c16-80b7-89579b8ce76c"
-          ]
+          "capsIptCapsValue": ["3b6b16c2-6f98-4c16-80b7-89579b8ce76c"]
         }
       },
       "capsUseConections": "1"
@@ -14324,9 +13380,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14365,9 +13419,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "getOrderData.ts",
         "en": "getOrderData.ts"
@@ -14383,9 +13435,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "65d69a12-4286-4ce5-b13b-1eedb697ae7d"
-          ]
+          "capsIptCapsValue": ["65d69a12-4286-4ce5-b13b-1eedb697ae7d"]
         }
       },
       "capsUseConections": "1"
@@ -14412,9 +13462,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14453,9 +13501,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006021
-      ],
+      "capsUpdatedAt": [1724436006021],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -14471,9 +13517,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "ba9cf800-47d7-4c47-b1bf-a8d53500f07e"
-          ]
+          "capsIptCapsValue": ["ba9cf800-47d7-4c47-b1bf-a8d53500f07e"]
         }
       },
       "capsUseConections": "1"
@@ -14500,9 +13544,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14541,9 +13583,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "updateCredCard.ts",
         "en": "updateCredCard.ts"
@@ -14559,9 +13599,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "ed68ab8b-840c-4154-9f15-575c08b5a9d9"
-          ]
+          "capsIptCapsValue": ["ed68ab8b-840c-4154-9f15-575c08b5a9d9"]
         }
       },
       "capsUseConections": "1"
@@ -14588,9 +13626,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14629,9 +13665,7 @@
       },
       "capsCodeID": "sss_dirSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "processCheckout",
         "en": "processCheckout"
@@ -14677,9 +13711,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -14695,9 +13727,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "8fe1da8d-8375-452a-86ef-2f064a8b8533"
-          ]
+          "capsIptCapsValue": ["8fe1da8d-8375-452a-86ef-2f064a8b8533"]
         }
       },
       "capsUseConections": "1"
@@ -14724,9 +13754,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14765,9 +13793,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "index.tsx",
         "en": "index.tsx"
@@ -14783,9 +13809,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "7e80ca19-3cae-4e4c-a3f7-9ed84807d6e2"
-          ]
+          "capsIptCapsValue": ["7e80ca19-3cae-4e4c-a3f7-9ed84807d6e2"]
         }
       },
       "capsUseConections": "1"
@@ -14812,9 +13836,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14853,9 +13875,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "index.ts",
         "en": "index.ts"
@@ -14871,9 +13891,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a45f3652-099c-42b0-8fee-0016c071a816"
-          ]
+          "capsIptCapsValue": ["a45f3652-099c-42b0-8fee-0016c071a816"]
         }
       },
       "capsUseConections": "1"
@@ -14900,9 +13918,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724436006022
-      ],
+      "capsUpdatedAt": [1724436006022],
       "capsUseLabel": {
         "pt-br": "code",
         "en": "code"
@@ -14941,9 +13957,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724369305073
-      ],
+      "capsUpdatedAt": [1724369305073],
       "capsUseLabel": {
         "pt-br": "fileSystem",
         "en": "index.tsx"
@@ -14989,9 +14003,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724369341952
-      ],
+      "capsUpdatedAt": [1724369341952],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "code"
@@ -15030,9 +14042,7 @@
       },
       "capsCodeID": "ccc_project",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724369467712
-      ],
+      "capsUpdatedAt": [1724369467712],
       "capsUseLabel": {
         "pt-br": "Project",
         "en": "Project"
@@ -15048,9 +14058,7 @@
         },
         "ccc_project-1": {
           "capsIptCodeID": "ccc_project-1",
-          "capsIptCapsValue": [
-            "5ede7eb4-c85c-4ba5-a310-f3703459d65d"
-          ]
+          "capsIptCapsValue": ["5ede7eb4-c85c-4ba5-a310-f3703459d65d"]
         },
         "ccc_project-2": {
           "capsIptCodeID": "ccc_project-2",
@@ -15085,9 +14093,7 @@
       },
       "capsCodeID": "ccc_screen",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724371277671
-      ],
+      "capsUpdatedAt": [1724371277671],
       "capsUseLabel": {
         "pt-br": "screen",
         "en": "screen"
@@ -15107,9 +14113,7 @@
         },
         "ccc_screen-2": {
           "capsIptCodeID": "ccc_screen-2",
-          "capsIptCapsValue": [
-            "7cbadb9c-aa85-4f78-9f80-c8a1713384e6"
-          ]
+          "capsIptCapsValue": ["7cbadb9c-aa85-4f78-9f80-c8a1713384e6"]
         },
         "ccc_screen-3": {
           "capsIptCodeID": "ccc_screen-3",
@@ -15140,9 +14144,7 @@
       },
       "capsCodeID": "ccc_dynView",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724375784319
-      ],
+      "capsUpdatedAt": [1724375784319],
       "capsUseLabel": {
         "pt-br": "DynView",
         "en": "DynView"
@@ -15197,9 +14199,7 @@
       },
       "capsCodeID": "sss_fileSystem",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724362301507
-      ],
+      "capsUpdatedAt": [1724362301507],
       "capsUseLabel": {
         "pt-br": "fileSystem",
         "en": "index.tsx"
@@ -15215,9 +14215,7 @@
         },
         "sss_fileSystem-1": {
           "capsIptCodeID": "sss_fileSystem-1",
-          "capsIptCapsValue": [
-            "a7bc994c-7dfd-4b9c-a0c1-6506fa4801bc"
-          ]
+          "capsIptCapsValue": ["a7bc994c-7dfd-4b9c-a0c1-6506fa4801bc"]
         }
       },
       "capsUseConections": "1"
@@ -15244,9 +14242,7 @@
       },
       "capsCodeID": "sss_freeValue",
       "capsCodeVersionID": "1",
-      "capsUpdatedAt": [
-        1724362306624
-      ],
+      "capsUpdatedAt": [1724362306624],
       "capsUseLabel": {
         "pt-br": "free value",
         "en": "code"
