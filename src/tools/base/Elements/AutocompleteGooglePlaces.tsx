@@ -58,7 +58,7 @@ export const AutocompleteGooglePlaces = (
     onChangeText: getTxt,
     value: sttTxt,
     placeholderTextColor: '#adb5bd',
-    placeholder: 'Pesquisar Endereço...',
+    placeholder: 'Pesquisar EndereÃ§o...',
   };
 
   const ItemList = (props: any) => {

@@ -14,7 +14,7 @@ export const getOrderData = (method?: 'ccard' | 'pix' | undefined) => {
   const isAPix = method === 'pix';
   let orderData: any = {};
 
-  let credCardData = getCtData(cardNumPath); // Só Numero Cartão vai pra esse caminho
+  let credCardData = getCtData(cardNumPath); // SÃ³ Numero CartÃ£o vai pra esse caminho
   let ctDataCheckout = getCtData(checkoutPath); // Todos os demais dados (itens do pedido, valor etc)
   const priceWithoutDot = String(ctDataCheckout?.totalPrice).replace('.', '');
   const totalPriceCents = ctDataCheckout?.totalPrice && priceWithoutDot;
@@ -45,8 +45,8 @@ export const getOrderData = (method?: 'ccard' | 'pix' | undefined) => {
       credCardData.credit_card.card_id = cardId;
     }
 
-    // --- Quando NÃO tem token
-    // ---- Usar dados do Formulário
+    // --- Quando NÃƒO tem token
+    // ---- Usar dados do FormulÃ¡rio
     if (!cardId) {
       console.log({ bikesList: ctDataCheckout?.bikesList });
       const expMonth = credCardData?.credit_card?.card?.exp_month;
@@ -92,7 +92,7 @@ export const getOrderData = (method?: 'ccard' | 'pix' | undefined) => {
   // ---------------------------
   const oldListBike = ctDataCheckout?.bikesList;
   const newBikeList = oldListBike.map((i, idx) => {
-    const unitPrice = i?.modelPrice.replace(/[^0-9]/g, ''); // Number in cents (só numeros)
+    const unitPrice = i?.modelPrice.replace(/[^0-9]/g, ''); // Number in cents (sÃ³ numeros)
     console.log({ unitPrice });
     return {
       description: i?.modelName,

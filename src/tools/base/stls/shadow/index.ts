@@ -112,7 +112,7 @@ export const shadowRadius = (props: Tprops_shadowRadius) => {
   return { shadowRadius: arrayValue };
 };
 
-// Posição da Sombra - shadowOffset // DESCONTINUADO (REMOVER NO FLAX / DEPOIS APAGAR DAQUI)
+// PosiÃ§Ã£o da Sombra - shadowOffset // DESCONTINUADO (REMOVER NO FLAX / DEPOIS APAGAR DAQUI)
 type Tprops_shadowOffset = {
   pass: { arrayValue1: any; arrayValue2: any };
 };

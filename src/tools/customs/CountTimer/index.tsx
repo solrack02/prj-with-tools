@@ -27,7 +27,7 @@ export const CountTimer = (props: Tprops) => {
     const newInterval = setInterval(funcToLoop, 1000);
     setIntervalId(newInterval);
 
-    // Limpa o intervalo quando o componente é desmontado
+    // Limpa o intervalo quando o componente Ã© desmontado
     return () => clearInterval(newInterval); // Use newInterval aqui
   };
 

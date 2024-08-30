@@ -25,7 +25,7 @@ export const GetUserLocation = (props: Tprops) => {
     (async () => {
       let { status } = await Location.requestForegroundPermissionsAsync();
       if (status !== 'granted') {
-        setErrorMsg('Permissão para acessar a localização foi negada');
+        setErrorMsg('PermissÃ£o para acessar a localizaÃ§Ã£o foi negada');
         return;
       }
 
@@ -51,12 +51,12 @@ export const GetUserLocation = (props: Tprops) => {
   const checkCoords = checkLat && checkLong;
 
   if (checkCoords) {
-    console.log('TEM localização', { currInitGetUserLoc });
+    console.log('TEM localizaÃ§Ã£o', { currInitGetUserLoc });
     return <>{children}</>;
   }
 
   if (!checkCoords) {
-    console.log('nao tem localização', { currInitGetUserLoc });
+    console.log('nao tem localizaÃ§Ã£o', { currInitGetUserLoc });
     return (
       <>
         {children}
@@ -74,7 +74,7 @@ export const GetUserLocation = (props: Tprops) => {
           }}
         >
           <Text style={{ color: '#ccc' }}>
-            Carregando Localização... {errorMsg && errorMsg}
+            Carregando LocalizaÃ§Ã£o... {errorMsg && errorMsg}
           </Text>
         </View>
       </>

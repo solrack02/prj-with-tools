@@ -10,7 +10,7 @@ type Tprops = {
 export const processCheckout = async (props: Tprops) => {
   const { args } = props;
   const selecHours = Number(args[1]);
-  const updatedList = args[0][0].watch; // Recebe do watcher (pai que é um Listener)
+  const updatedList = args[0][0].watch; // Recebe do watcher (pai que Ã© um Listener)
   console.log('ARGS do Checkout', { args });
 
   let newValue = 0;

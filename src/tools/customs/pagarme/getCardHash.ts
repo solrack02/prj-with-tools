@@ -13,7 +13,7 @@ type Tprops = () => Promise<Response>;
 export const getCardHash: Tprops = async () => {
   console.log('Gerando Card Hash...');
   const customerId = getCtData('all.userData.customerId');
-  let mockCardNumber = getCtData(cardNumPath); // Dados do Cart„o
+  let mockCardNumber = getCtData(cardNumPath); // Dados do Cart√£o
   mockCardNumber.credit_card.card.number =
     mockCardNumber?.credit_card?.card?.number.replace(/[^0-9]/g, '');
 

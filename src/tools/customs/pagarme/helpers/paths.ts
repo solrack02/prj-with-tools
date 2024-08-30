@@ -1,10 +1,10 @@
 
-export const cardNumPath = 'sc.B4.currData.orderData.payments.0'; // SÛ Numero Cart„o vai pra esse caminho
+export const cardNumPath = 'sc.B4.currData.orderData.payments.0'; // S√≥ Numero Cart√£o vai pra esse caminho
 export const checkoutPath = 'sc.B4.currData.checkout'; // Todos os demais dados (itens do pedido, valor etc)
 export const cardTokenPath = 'all.userData.paymentData.id'; // Curr Auth User Payment Data
 export const userDataPath = 'all.userData'; // Curr Auth User Payment Data
 
 export const errorPathShow = 'all.apis.msgs.condShow'; // recebe 'true' ou 'false' (string)
 export const errorPathTxt = 'all.apis.msgs.error'; // recebe texto de erro da resposta do servidor (string)
-export const txtErrorDefault1 = 'Verifique todos os campos obrigatÛrios.';
+export const txtErrorDefault1 = 'Verifique todos os campos obrigat√≥rios.';
 

@@ -15,7 +15,7 @@ export const processCheckout = async (props: Tprops) => {
   const selecHours = Number(args[1]);
 
   // ---- Watch Data List B3C (mainList)
-  const updatedList = args[0][0].watch; // Recebe do watcher (pai que é um Listener)
+  const updatedList = args[0][0].watch; // Recebe do watcher (pai que Ã© um Listener)
 
   let newValue = 0;
   updatedList.forEach(item => {

@@ -39,7 +39,7 @@ export const pt18 = (props: Tprops_p18) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco para Baixo - nextFocusDown
+// PrÃ³ximo Foco para Baixo - nextFocusDown
 type Tprops_p19 = { pass: { A: any; B: any; C: any; D: any; args: any } };
 export const pt19 = (props: Tprops_p19) => {
   const { A, B, C, D, args } = props.pass;
@@ -49,7 +49,7 @@ export const pt19 = (props: Tprops_p19) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco à Esquerda - nextFocusLeft
+// PrÃ³ximo Foco Ã  Esquerda - nextFocusLeft
 type Tprops_p20 = { pass: { A: any; B: any; C: any; D: any; args: any } };
 export const pt20 = (props: Tprops_p20) => {
   const { A, B, C, D, args } = props.pass;
@@ -59,7 +59,7 @@ export const pt20 = (props: Tprops_p20) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco à Direita - nextFocusRight
+// PrÃ³ximo Foco Ã  Direita - nextFocusRight
 type Tprops_p21 = { pass: { A: any; B: any; C: any; D: any; args: any } };
 export const pt21 = (props: Tprops_p21) => {
   const { A, B, C, D, args } = props.pass;
@@ -69,7 +69,7 @@ export const pt21 = (props: Tprops_p21) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco - nextFocusUp
+// PrÃ³ximo Foco - nextFocusUp
 type Tprops_p22 = { pass: { A: any; B: any; C: any; D: any; args: any } };
 export const pt22 = (props: Tprops_p22) => {
   const { A, B, C, D, args } = props.pass;

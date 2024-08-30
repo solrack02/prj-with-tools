@@ -1,5 +1,5 @@
 
-// Rótulo de Acessibilidade - accessibilityLabel
+// RÃ³tulo de Acessibilidade - accessibilityLabel
 type accessibilityLabel = { pass: { accessibilityLabel: any } };
 export const accessibilityLabel = (props: accessibilityLabel) => {
   const { accessibilityLabel } = props.pass;
@@ -29,7 +29,7 @@ export const blurRadius = (props: blurRadius) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Inserções - capInsets
+// InserÃ§Ãµes - capInsets
 type capInsets = { pass: { capInsets: any } };
 export const capInsets = (props: capInsets) => {
   const { capInsets } = props.pass;
@@ -49,7 +49,7 @@ export const crossOrigin = (props: Tprops_crossOrigin) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Fonte Padrão - defaultSource
+// Fonte PadrÃ£o - defaultSource
 type Tprops_defaultSource = { pass: { defaultSource: any } };
 export const defaultSource = (props: Tprops_defaultSource) => {
   const { defaultSource } = props.pass;
@@ -59,7 +59,7 @@ export const defaultSource = (props: Tprops_defaultSource) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Duração do Esmaecimento - fadeDuration
+// DuraÃ§Ã£o do Esmaecimento - fadeDuration
 type Tprops_fadeDuration = { pass: { fadeDuration: any } };
 export const fadeDuration = (props: Tprops_fadeDuration) => {
   const { fadeDuration } = props.pass;

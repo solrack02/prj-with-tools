@@ -9,7 +9,7 @@ export const color = (props: Tprops_color) => {
   return { color: arrayStrings };
 };
 
-// Família da Fonte - fontFamily
+// FamÃ­lia da Fonte - fontFamily
 type Tprops_fontFamily = { pass: { arrayValue: any } };
 export const fontFamily = (props: Tprops_fontFamily) => {
   const { arrayValue } = props.pass;
@@ -32,7 +32,7 @@ export const fontSize = (props: Tprops_fontSize) => {
   return { fontSize: arrayStrings };
 };
 
-// Estilização do Texto - fontStyle
+// EstilizaÃ§Ã£o do Texto - fontStyle
 type Tprops_fontStyle = { pass: { arrayValue: any } };
 export const fontStyle = (props: Tprops_fontStyle) => {
   const { arrayValue } = props.pass;
@@ -52,7 +52,7 @@ export const fontWeight = (props: Tprops_fontWeight) => {
   return { fontWeight: arrayStrings };
 };
 
-// Espaçamento Interno da Fonte(Android) - includeFontPadding
+// EspaÃ§amento Interno da Fonte(Android) - includeFontPadding
 type Tprops_includeFontPadding = { pass: { arrayValue: any } };
 export const includeFontPadding = (props: Tprops_includeFontPadding) => {
   const { arrayValue } = props.pass;
@@ -62,7 +62,7 @@ export const includeFontPadding = (props: Tprops_includeFontPadding) => {
   return { includeFontPadding: arrayStrings };
 };
 
-// Variação da Fonte - fontVariant
+// VariaÃ§Ã£o da Fonte - fontVariant
 type Tprops_fontVariant = { pass: { arrayValue: any } };
 export const fontVariant = (props: Tprops_fontVariant) => {
   const { arrayValue } = props.pass;
@@ -102,7 +102,7 @@ export const textAlignVertical = (props: Tprops_textAlignVertical) => {
   return { textAlignVertical: arrayStrings };
 };
 
-// Cor da Decoração do Texto - textDecorationColor
+// Cor da DecoraÃ§Ã£o do Texto - textDecorationColor
 type Tprops_textDecorationColor = { pass: { arrayValue: any } };
 export const textDecorationColor = (props: Tprops_textDecorationColor) => {
   const { arrayValue } = props.pass;
@@ -112,7 +112,7 @@ export const textDecorationColor = (props: Tprops_textDecorationColor) => {
   return { textDecorationColor: arrayStrings };
 };
 
-// Decoração da Linha do Texto - textDecorationLine
+// DecoraÃ§Ã£o da Linha do Texto - textDecorationLine
 type Tprops_textDecorationLine = { pass: { arrayValue: any } };
 export const textDecorationLine = (props: Tprops_textDecorationLine) => {
   const { arrayValue } = props.pass;
@@ -122,7 +122,7 @@ export const textDecorationLine = (props: Tprops_textDecorationLine) => {
   return { textDecorationLine: arrayStrings };
 };
 
-// Estilo de Decoração de Texto - textDecorationStyle
+// Estilo de DecoraÃ§Ã£o de Texto - textDecorationStyle
 type Tprops_textDecorationStyle = { pass: { arrayValue: any } };
 export const textDecorationStyle = (props: Tprops_textDecorationStyle) => {
   const { arrayValue } = props.pass;

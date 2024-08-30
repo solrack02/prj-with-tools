@@ -41,7 +41,7 @@ export const hasTVPreferredFocus = (props: Tprops_hasTVPreferredFocus) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco para Baixo - nextFocusDown
+// PrÃ³ximo Foco para Baixo - nextFocusDown
 type Tprops_nextFocusDown = { pass: { nextFocusDown: any } };
 export const nextFocusDown = (props: Tprops_nextFocusDown) => {
   const { nextFocusDown } = props.pass;
@@ -51,7 +51,7 @@ export const nextFocusDown = (props: Tprops_nextFocusDown) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco à Esquerda - nextFocusLeft
+// PrÃ³ximo Foco Ã  Esquerda - nextFocusLeft
 type Tprops_nextFocusLeft = { pass: { nextFocusLeft: any } };
 export const nextFocusLeft = (props: Tprops_nextFocusLeft) => {
   const { nextFocusLeft } = props.pass;
@@ -61,7 +61,7 @@ export const nextFocusLeft = (props: Tprops_nextFocusLeft) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco à Direita - nextFocusRight
+// PrÃ³ximo Foco Ã  Direita - nextFocusRight
 type Tprops_nextFocusRight = { pass: { nextFocusRight: any } };
 export const nextFocusRight = (props: Tprops_nextFocusRight) => {
   const { nextFocusRight } = props.pass;
@@ -71,7 +71,7 @@ export const nextFocusRight = (props: Tprops_nextFocusRight) => {
   // return; aqui fica comentado por enquanto
 };
 
-// Próximo Foco - nextFocusUp
+// PrÃ³ximo Foco - nextFocusUp
 type Tprops_nextFocusUp = { pass: { nextFocusUp: any } };
 export const nextFocusUp = (props: Tprops_nextFocusUp) => {
   const { nextFocusUp } = props.pass;

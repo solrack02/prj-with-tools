@@ -24,7 +24,7 @@ type Tprops = {
 
 export const createOrder = async (props: Tprops) => {
   const customerId = getCtData('all.userData.customerId');
-  console.log('pagarme', 'Gerando Pag. C.Crédito...', { customerId });
+  console.log('pagarme', 'Gerando Pag. C.CrÃ©dito...', { customerId });
 
   // --------- Check IF is A New Pagar.Me Customer
   if (!customerId) {

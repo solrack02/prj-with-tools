@@ -27,10 +27,10 @@ export const expoUpdate =
           await Updates.reloadAsync();
         };
         const msg1 =
-          'H· uma nova vers„o do cÛdigo do aplicativo. Deseja atualizar?';
-        Alert.alert('AtualizaÁ„o do CÛdigo', msg1, [
+          'H√° uma nova vers√£o do c√≥digo do aplicativo. Deseja atualizar?';
+        Alert.alert('Atualiza√ß√£o do C√≥digo', msg1, [
           {
-            text: 'N„o',
+            text: 'N√£o',
             style: 'cancel',
           },
           { text: 'Sim', onPress: fnOk },

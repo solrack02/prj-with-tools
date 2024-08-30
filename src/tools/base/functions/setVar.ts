@@ -27,7 +27,7 @@ export const setVar = (props: Tprops_setVar) => {
     // --------- set Consoles System
     console.log('%csetVar', css3);
     console.log('%csetVar path', css4, url);
-    console.table('%csetVar value', css4, 'o valor de value é ' + value);
+    console.table('%csetVar value', css4, 'o valor de value Ã© ' + value);
   }
 
   if (value !== undefined) {

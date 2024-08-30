@@ -1,5 +1,5 @@
 
-// Alinhamento do Conteúdo - alignContent
+// Alinhamento do ConteÃºdo - alignContent
 type Tprops_alignContent = {
   pass: { arrayValue: any; args?: any };
 };
@@ -33,7 +33,7 @@ export const alignItems = (props: Tprops_alignItems) => {
   return { alignItems: arrayValue };
 };
 
-// Alinhamento Próprio - alignSelf
+// Alinhamento PrÃ³prio - alignSelf
 type Tprops_alignSelf = {
   pass: { arrayValue: any; args?: any };
 };
@@ -50,7 +50,7 @@ export const alignSelf = (props: Tprops_alignSelf) => {
   return { alignSelf: arrayValue };
 };
 
-// Dimensão - aspectRatio
+// DimensÃ£o - aspectRatio
 type Tprops_aspectRatio = {
   pass: { arrayValue: any; args?: any };
 };
@@ -135,7 +135,7 @@ export const borderRightWidth = (props: Tprops_borderRightWidth) => {
   return { borderRightWidth: arrayValue };
 };
 
-// Espessura da Borda (Início) - borderStartWidth
+// Espessura da Borda (InÃ­cio) - borderStartWidth
 type Tprops_borderStartWidth = {
   pass: { arrayValue: any; args?: any };
 };
@@ -205,7 +205,7 @@ export const bottom = (props: Tprops_bottom) => {
 
 //   ##### Falta: columnGap ####
 
-// Direção(iOS) - direction
+// DireÃ§Ã£o(iOS) - direction
 type Tprops_direction = {
   pass: { arrayValue: any; args?: any };
 };
@@ -222,7 +222,7 @@ export const direction = (props: Tprops_direction) => {
   return { direction: arrayValue };
 };
 
-// Exibição - display
+// ExibiÃ§Ã£o - display
 type Tprops_display = {
   pass: { arrayValue: any; args?: any };
 };
@@ -378,7 +378,7 @@ export const height = (props: Tprops_height) => {
   return { height: arrayValue };
 };
 
-// Ajuste do Conteúdo - justifyContent
+// Ajuste do ConteÃºdo - justifyContent
 type Tprops_justifyContent = {
   pass: { arrayValue: any; args?: any };
 };
@@ -514,7 +514,7 @@ export const marginRight = (props: Tprops_marginRight) => {
   return { marginRight: arrayValue };
 };
 
-// Margem Início - marginStart
+// Margem InÃ­cio - marginStart
 type Tprops_marginStart = {
   pass: { arrayValue: any; args?: any };
 };
@@ -565,7 +565,7 @@ export const marginVertical = (props: Tprops_marginVertical) => {
   return { marginVertical: arrayValue };
 };
 
-// Altura Máxima - maxHeight
+// Altura MÃ¡xima - maxHeight
 type Tprops_maxHeight = {
   pass: { arrayValue: any; args?: any };
 };
@@ -582,7 +582,7 @@ export const maxHeight = (props: Tprops_maxHeight) => {
   return { maxHeight: arrayValue };
 };
 
-// Largura Máxima - maxWidth
+// Largura MÃ¡xima - maxWidth
 type Tprops_maxWidth = {
   pass: { arrayValue: any; args?: any };
 };
@@ -599,7 +599,7 @@ export const maxWidth = (props: Tprops_maxWidth) => {
   return { maxWidth: arrayValue };
 };
 
-// Altura Mínima - minHeight
+// Altura MÃ­nima - minHeight
 type Tprops_minHeight = {
   pass: { arrayValue: any; args?: any };
 };
@@ -616,7 +616,7 @@ export const minHeight = (props: Tprops_minHeight) => {
   return { minHeight: arrayValue };
 };
 
-// Largura Mínima - minWidth
+// Largura MÃ­nima - minWidth
 type Tprops_minWidth = {
   pass: { arrayValue: any; args?: any };
 };
@@ -650,7 +650,7 @@ export const overflow = (props: Tprops_overflow) => {
   return { overflow: arrayValue };
 };
 
-// Espaço Interno Geral - padding
+// EspaÃ§o Interno Geral - padding
 type Tprops_padding = {
   pass: { arrayValue: any; args?: any };
 };
@@ -667,7 +667,7 @@ export const padding = (props: Tprops_padding) => {
   return { padding: arrayValue };
 };
 
-// Espaço Interno de Baixo - paddingBottom
+// EspaÃ§o Interno de Baixo - paddingBottom
 type Tprops_paddingBottom = {
   pass: { arrayValue: any; args?: any };
 };
@@ -684,7 +684,7 @@ export const paddingBottom = (props: Tprops_paddingBottom) => {
   return { paddingBottom: arrayValue };
 };
 
-// Espaço Interno Final - paddingEnd
+// EspaÃ§o Interno Final - paddingEnd
 type Tprops_paddingEnd = {
   pass: { arrayValue: any; args?: any };
 };
@@ -701,7 +701,7 @@ export const paddingEnd = (props: Tprops_paddingEnd) => {
   return { paddingEnd: arrayValue };
 };
 
-// Espaço Interno Horizontal - paddingHorizontal
+// EspaÃ§o Interno Horizontal - paddingHorizontal
 type Tprops_paddingHorizontal = {
   pass: { arrayValue: any; args?: any };
 };
@@ -718,7 +718,7 @@ export const paddingHorizontal = (props: Tprops_paddingHorizontal) => {
   return { paddingHorizontal: arrayValue };
 };
 
-// Espaço Interno da Esquerda - paddingLeft
+// EspaÃ§o Interno da Esquerda - paddingLeft
 type Tprops_paddingLeft = {
   pass: { arrayValue: any; args?: any };
 };
@@ -735,7 +735,7 @@ export const paddingLeft = (props: Tprops_paddingLeft) => {
   return { paddingLeft: arrayValue };
 };
 
-// Espaço Interno da Direita - paddingRight
+// EspaÃ§o Interno da Direita - paddingRight
 type Tprops_paddingRight = {
   pass: { arrayValue: any; args?: any };
 };
@@ -752,7 +752,7 @@ export const paddingRight = (props: Tprops_paddingRight) => {
   return { paddingRight: arrayValue };
 };
 
-// Espaço Interno Inicial - paddingStart
+// EspaÃ§o Interno Inicial - paddingStart
 type Tprops_paddingStart = {
   pass: { arrayValue: any; args?: any };
 };
@@ -769,7 +769,7 @@ export const paddingStart = (props: Tprops_paddingStart) => {
   return { paddingStart: arrayValue };
 };
 
-// Espaço Interno de Cima - paddingTop
+// EspaÃ§o Interno de Cima - paddingTop
 type Tprops_paddingTop = {
   pass: { arrayValue: any; args?: any };
 };
@@ -786,7 +786,7 @@ export const paddingTop = (props: Tprops_paddingTop) => {
   return { paddingTop: arrayValue };
 };
 
-// Espaço Interno Vertical - paddingVertical
+// EspaÃ§o Interno Vertical - paddingVertical
 type Tprops_paddingVertical = {
   pass: { arrayValue: any; args?: any };
 };
@@ -803,7 +803,7 @@ export const paddingVertical = (props: Tprops_paddingVertical) => {
   return { paddingVertical: arrayValue };
 };
 
-// Posição - position
+// PosiÃ§Ã£o - position
 type Tprops_position = {
   pass: { arrayValue: any; args?: any };
 };
@@ -839,7 +839,7 @@ export const right = (props: Tprops_right) => {
 
 //   ##### Falta: rowGap ####
 
-// Início - start
+// InÃ­cio - start
 type Tprops_start = {
   pass: { arrayValue: any; args?: any };
 };

@@ -38,7 +38,7 @@ export const F5 = (props: Tprops_F5) => async () => {
   setData({ path: 'formsData.A8.condPending', value: 'xx' });
 
   // ---------------------------------------------------------
-  // --------- A8 REGRAS INCLUS√O VS ANALISE/INVENTARIO NORMAL
+  // --------- A8 REGRAS INCLUS√ÉO VS ANALISE/INVENTARIO NORMAL
   // ---------------------------------------------------------
   const arrInv1 = getCtData('apiData.A6.selectedData.inventories');
   const assetid = getCtData('apiData.A8.selectedID');

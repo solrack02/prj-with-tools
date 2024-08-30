@@ -34,7 +34,7 @@ export const bounces = (props: Tprops_bounces) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Animação de Zoom - bouncesZoom
+// AnimaÃ§Ã£o de Zoom - bouncesZoom
 type Tprops_bouncesZoom = {
   pass: { bouncesZoom: any; B: any; C: any; D: any; args: any };
 };
@@ -45,7 +45,7 @@ export const bouncesZoom = (props: Tprops_bouncesZoom) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Ajuste automático da inserção de conteúdo - automaticallyAdjustContentInsets
+// Ajuste automÃ¡tico da inserÃ§Ã£o de conteÃºdo - automaticallyAdjustContentInsets
 type Tprops_automaticallyAdjustContentInsets = {
   pass: {
     automaticallyAdjustContentInsets: any;
@@ -64,7 +64,7 @@ export const automaticallyAdjustContentInsets = (
 
   // return; aqui fica comentado por enquanto
 };
-// Ajuste automático ao tamanho do teclado - automaticallyAdjustKeyboardInsets
+// Ajuste automÃ¡tico ao tamanho do teclado - automaticallyAdjustKeyboardInsets
 type Tprops_automaticallyAdjustKeyboardInsets = {
   pass: {
     automaticallyAdjustKeyboardInsets: any;
@@ -83,7 +83,7 @@ export const automaticallyAdjustKeyboardInsets = (
 
   // return; aqui fica comentado por enquanto
 };
-// Ajustar automático das inserções do indicador de rolagem - automaticallyAdjustsScrollIndicatorInsets
+// Ajustar automÃ¡tico das inserÃ§Ãµes do indicador de rolagem - automaticallyAdjustsScrollIndicatorInsets
 type Tprops_automaticallyAdjustsScrollIndicatorInsets = {
   pass: {
     automaticallyAdjustsScrollIndicatorInsets: any;
@@ -116,7 +116,7 @@ export const canCancelContentTouches = (
 
   // return; aqui fica comentado por enquanto
 };
-// Centralizar Conteúdo - centerContent
+// Centralizar ConteÃºdo - centerContent
 type Tprops_centerContent = {
   pass: { centerContent: any; B: any; C: any; D: any; args: any };
 };
@@ -127,7 +127,7 @@ export const centerContent = (props: Tprops_centerContent) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Estilo de Conteúdo do Container - contentContainerStyle
+// Estilo de ConteÃºdo do Container - contentContainerStyle
 type Tprops_contentContainerStyle = {
   pass: { contentContainerStyle: any; B: any; C: any; D: any; args: any };
 };
@@ -138,7 +138,7 @@ export const contentContainerStyle = (props: Tprops_contentContainerStyle) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Posicionamento do Conteúdo - contentInset
+// Posicionamento do ConteÃºdo - contentInset
 type Tprops_contentInset = {
   pass: { contentInset: any; B: any; C: any; D: any; args: any };
 };
@@ -149,7 +149,7 @@ export const contentInset = (props: Tprops_contentInset) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Posicionamento do Conteúdo na Área Segura - contentInsetAdjustmentBehavior
+// Posicionamento do ConteÃºdo na Ãrea Segura - contentInsetAdjustmentBehavior
 type Tprops_contentInsetAdjustmentBehavior = {
   pass: {
     contentInsetAdjustmentBehavior: any;
@@ -179,7 +179,7 @@ export const contentOffset = (props: Tprops_contentOffset) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Taxa de desaceleração - decelerationRate
+// Taxa de desaceleraÃ§Ã£o - decelerationRate
 type Tprops_decelerationRate = {
   pass: { decelerationRate: any; B: any; C: any; D: any; args: any };
 };
@@ -203,7 +203,7 @@ export const directionalLockEnabled = (
 
   // return; aqui fica comentado por enquanto
 };
-// Navegação por índices - disableIntervalMomentum
+// NavegaÃ§Ã£o por Ã­ndices - disableIntervalMomentum
 type Tprops_disableIntervalMomentum = {
   pass: { disableIntervalMomentum: any; B: any; C: any; D: any; args: any };
 };
@@ -270,7 +270,7 @@ export const indicatorStyle = (props: Tprops_indicatorStyle) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Inverter Cabeçalho - invertStickyHeaders
+//  Inverter CabeÃ§alho - invertStickyHeaders
 type Tprops_invertStickyHeaders = {
   pass: { invertStickyHeaders: any; B: any; C: any; D: any; args: any };
 };
@@ -292,7 +292,7 @@ export const keyboardDismissMode = (props: Tprops_keyboardDismissMode) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Teclado Segue Visível - keyboardShouldPersistTaps
+//  Teclado Segue VisÃ­vel - keyboardShouldPersistTaps
 type Tprops_keyboardShouldPersistTaps = {
   pass: { keyboardShouldPersistTaps: any; B: any; C: any; D: any; args: any };
 };
@@ -305,7 +305,7 @@ export const keyboardShouldPersistTaps = (
 
   // return; aqui fica comentado por enquanto
 };
-//  Fixar Posição do Conteúdo Visível - maintainVisibleContentPosition
+//  Fixar PosiÃ§Ã£o do ConteÃºdo VisÃ­vel - maintainVisibleContentPosition
 type Tprops_maintainVisibleContentPosition = {
   pass: {
     maintainVisibleContentPosition: any;
@@ -324,7 +324,7 @@ export const maintainVisibleContentPosition = (
 
   // return; aqui fica comentado por enquanto
 };
-//  Escala máxima de Zoom - maximumZoomScale
+//  Escala mÃ¡xima de Zoom - maximumZoomScale
 type Tprops_maximumZoomScale = {
   pass: { maximumZoomScale: any; B: any; C: any; D: any; args: any };
 };
@@ -335,7 +335,7 @@ export const maximumZoomScale = (props: Tprops_maximumZoomScale) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Escala mínima de Zoom - minimumZoomScale
+//  Escala mÃ­nima de Zoom - minimumZoomScale
 type Tprops_minimumZoomScale = {
   pass: { minimumZoomScale: any; B: any; C: any; D: any; args: any };
 };
@@ -357,7 +357,7 @@ export const nestedScrollEnabled = (props: Tprops_nestedScrollEnabled) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Substituição do overScroll - overScrollMode
+//  SubstituiÃ§Ã£o do overScroll - overScrollMode
 type Tprops_overScrollMode = {
   pass: { overScrollMode: any; B: any; C: any; D: any; args: any };
 };
@@ -368,7 +368,7 @@ export const overScrollMode = (props: Tprops_overScrollMode) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Habilitar paginação - pagingEnabled
+//  Habilitar paginaÃ§Ã£o - pagingEnabled
 type Tprops_pagingEnabled = {
   pass: { pagingEnabled: any; B: any; C: any; D: any; args: any };
 };
@@ -390,7 +390,7 @@ export const persistentScrollbar = (props: Tprops_persistentScrollbar) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Gestos de pinça para Zoom - pinchGestureEnabled
+//  Gestos de pinÃ§a para Zoom - pinchGestureEnabled
 type Tprops_pinchGestureEnabled = {
   pass: { pinchGestureEnabled: any; B: any; C: any; D: any; args: any };
 };
@@ -401,7 +401,7 @@ export const pinchGestureEnabled = (props: Tprops_pinchGestureEnabled) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Remoção de Subvisualização Cortada - removeClippedSubviews
+//  RemoÃ§Ã£o de SubvisualizaÃ§Ã£o Cortada - removeClippedSubviews
 type Tprops_removeClippedSubviews = {
   pass: { removeClippedSubviews: any; B: any; C: any; D: any; args: any };
 };
@@ -434,7 +434,7 @@ export const scrollEventThrottle = (props: Tprops_scrollEventThrottle) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Inserção de Indicadores de Rolagem - scrollIndicatorInsets
+// InserÃ§Ã£o de Indicadores de Rolagem - scrollIndicatorInsets
 type Tprops_scrollIndicatorInsets = {
   pass: { scrollIndicatorInsets: any; B: any; C: any; D: any; args: any };
 };
@@ -445,7 +445,7 @@ export const scrollIndicatorInsets = (props: Tprops_scrollIndicatorInsets) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Rolar além do conteúdo - scrollToOverflowEnabled
+// Rolar alÃ©m do conteÃºdo - scrollToOverflowEnabled
 type Tprops_scrollToOverflowEnabled = {
   pass: { scrollToOverflowEnabled: any; B: any; C: any; D: any; args: any };
 };
@@ -551,7 +551,7 @@ export const snapToOffsets = (props: Tprops_snapToOffsets) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Desativar Encaixe ao Início - snapToStart
+// Desativar Encaixe ao InÃ­cio - snapToStart
 type Tprops_snapToStart = {
   pass: { snapToStart: any; B: any; C: any; D: any; args: any };
 };
@@ -562,7 +562,7 @@ export const snapToStart = (props: Tprops_snapToStart) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Ocultar Cabeçalho ao Rolar - stickyHeaderHiddenOnScroll
+// Ocultar CabeÃ§alho ao Rolar - stickyHeaderHiddenOnScroll
 type Tprops_stickyHeaderHiddenOnScroll = {
   pass: { stickyHeaderHiddenOnScroll: any; B: any; C: any; D: any; args: any };
 };
@@ -575,7 +575,7 @@ export const stickyHeaderHiddenOnScroll = (
 
   // return; aqui fica comentado por enquanto
 };
-// Matriz de Índices - stickyHeaderIndices
+// Matriz de Ãndices - stickyHeaderIndices
 type Tprops_stickyHeaderIndices = {
   pass: { stickyHeaderIndices: any; B: any; C: any; D: any; args: any };
 };
@@ -586,7 +586,7 @@ export const stickyHeaderIndices = (props: Tprops_stickyHeaderIndices) => {
 
   // return; aqui fica comentado por enquanto
 };
-// Escala do Conteúdo - zoomScale
+// Escala do ConteÃºdo - zoomScale
 type Tprops_zoomScale = {
   pass: { zoomScale: any; B: any; C: any; D: any; args: any };
 };
@@ -619,7 +619,7 @@ export const scrollPerfTagg = (props: Tprops_scrollPerfTagg) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Controle de Atualização - refreshControl
+//  Controle de AtualizaÃ§Ã£o - refreshControl
 type Tprops_refreshControl = {
   pass: { refreshControl: any; B: any; C: any; D: any; args: any };
 };
@@ -630,7 +630,7 @@ export const refreshControl = (props: Tprops_refreshControl) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Ajuste ao mudar tamanho do conteúdo - onContentSizeChange
+//  Ajuste ao mudar tamanho do conteÃºdo - onContentSizeChange
 type Tprops_onContentSizeChange = {
   pass: { onContentSizeChange: any; B: any; C: any; D: any; args: any };
 };
@@ -641,7 +641,7 @@ export const onContentSizeChange = (props: Tprops_onContentSizeChange) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Função ao começar rolagem - onMomentumScrollBegin
+//  FunÃ§Ã£o ao comeÃ§ar rolagem - onMomentumScrollBegin
 type Tprops_onMomentumScrollBegin = {
   pass: { onMomentumScrollBegin: any; B: any; C: any; D: any; args: any };
 };
@@ -652,7 +652,7 @@ export const onMomentumScrollBegin = (props: Tprops_onMomentumScrollBegin) => {
 
   // return; aqui fica comentado por enquanto
 };
-//  Função ao terminar rolagem - onMomentumScrollEnd
+//  FunÃ§Ã£o ao terminar rolagem - onMomentumScrollEnd
 type Tprops_onMomentumScrollEnd = {
   pass: { onMomentumScrollEnd: any; B: any; C: any; D: any; args: any };
 };

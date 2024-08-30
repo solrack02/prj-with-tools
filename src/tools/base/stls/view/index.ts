@@ -94,7 +94,7 @@ export const borderBottomRightRadius = (
   return { borderBottomRightRadius: arrayValue };
 };
 
-// Arredondamento da Borda de Baixo(Início) - borderBottomStartRadius
+// Arredondamento da Borda de Baixo(InÃ­cio) - borderBottomStartRadius
 type Tprops_borderBottomStartRadius = { pass: { arrayValue: any } };
 export const borderBottomStartRadius = (
   props: Tprops_borderBottomStartRadius,
@@ -224,7 +224,7 @@ export const borderRightWidth = (props: Tprops_borderRightWidth) => {
   return { borderRightWidth: arrayValue };
 };
 
-// Cor do Início da Borda - borderStartColor
+// Cor do InÃ­cio da Borda - borderStartColor
 type Tprops_borderStartColor = { pass: { arrayValue: any } };
 export const borderStartColor = (props: Tprops_borderStartColor) => {
   let { arrayValue } = props.pass;
@@ -314,7 +314,7 @@ export const borderTopRightRadius = (props: Tprops_borderTopRightRadius) => {
   return { borderTopRightRadius: arrayValue };
 };
 
-// Arredondamento da Borda de Cima(Início) - borderTopStartRadius
+// Arredondamento da Borda de Cima(InÃ­cio) - borderTopStartRadius
 type Tprops_borderTopStartRadius = { pass: { arrayValue: any } };
 export const borderTopStartRadius = (props: Tprops_borderTopStartRadius) => {
   let { arrayValue } = props.pass;
