@@ -52,9 +52,10 @@ stls.backgroundColor({ pass: { arrayValue: [jsvals.j8({pass: {
         }})] }}), 
 stls.width({ pass: { arrayValue: [jsvals.j8({pass: {
           propertieValues: "100%"
-        }})] }}), stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
+        }})] }}), 
+stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
           propertieValues: "30px"
-        }})] }})],
+        }})] }}), stls.justifyContent({ pass: { arrayValue: ['center'] }})],
 
             variablePath:[ ],
 
@@ -66,7 +67,7 @@ stls.width({ pass: { arrayValue: [jsvals.j8({pass: {
           ],
 
           arrStyles: [
-            stls.color({ pass: { arrayValue: ["white"] }})
+            { color: 'black', fontSize: 12, }
           ],
 
           children: [
