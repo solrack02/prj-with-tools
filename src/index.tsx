@@ -67,7 +67,7 @@ stls.height({ pass: { arrayValue: [jsvals.j8({pass: {
           ],
 
           arrStyles: [
-            { color: 'black', fontSize: 12, }
+            stls.color({ pass: { arrayValue: ["white"] }})
           ],
 
           children: [
